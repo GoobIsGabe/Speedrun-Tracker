@@ -1,0 +1,3052 @@
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/sonicfrontiers#Any_No_DLC",
+    "game": "k6qwoez6",
+    "category": "9d8n33ld",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "realtime_noloads",
+    "values": {},
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "zg2jq00y",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zg2jq00y",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=LexIbvR7GLk" }]
+          },
+          "comment": "Shorts, Beans, Red Panda, Silence. \r\n\r\nThis run is dedicated to Refrag, GoobIsGabe and the entire Frontiers discord, thanks to all of you for being so supportive and awesome. ",
+          "status": {
+            "status": "verified",
+            "examiner": "8wkwmp48",
+            "verify-date": "2023-03-13T06:13:47Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "qjn2z2jm",
+              "uri": "https://www.speedrun.com/api/v1/users/qjn2z2jm"
+            }
+          ],
+          "date": "2023-03-13",
+          "submitted": "2023-03-13T05:52:03Z",
+          "times": {
+            "primary": "PT59M32.770S",
+            "primary_t": 3572.77,
+            "realtime": "PT1H2M38S",
+            "realtime_t": 3758,
+            "realtime_noloads": "PT59M32.770S",
+            "realtime_noloads_t": 3572.77,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 2,
+        "run": {
+          "id": "y6o9e81y",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y6o9e81y",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=fn-6kNziIww" }]
+          },
+          "comment": "WE MAKIN IT OUT THE NEST WITH THIS ONE ???\r\n\r\n(shoutouts to Onaku and Programfairy for making the Ouranos route that made this possible)",
+          "status": {
+            "status": "verified",
+            "examiner": "5j5wg3zj",
+            "verify-date": "2023-01-21T22:21:52Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "5j51ong8",
+              "uri": "https://www.speedrun.com/api/v1/users/5j51ong8"
+            }
+          ],
+          "date": "2023-01-18",
+          "submitted": "2023-01-21T21:53:29Z",
+          "times": {
+            "primary": "PT59M53.850S",
+            "primary_t": 3593.85,
+            "realtime": "PT1H3M",
+            "realtime_t": 3780,
+            "realtime_noloads": "PT59M53.850S",
+            "realtime_noloads_t": 3593.85,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 3,
+        "run": {
+          "id": "m3lj374m",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/m3lj374m",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=-Uidp3gxdlk" }]
+          },
+          "comment": "Peak gaming",
+          "status": {
+            "status": "verified",
+            "examiner": "j5wmvowj",
+            "verify-date": "2023-03-07T03:33:31Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "e8eekq28",
+              "uri": "https://www.speedrun.com/api/v1/users/e8eekq28"
+            }
+          ],
+          "date": "2023-02-27",
+          "submitted": "2023-03-06T21:46:25Z",
+          "times": {
+            "primary": "PT1H0.490S",
+            "primary_t": 3600.49,
+            "realtime": "PT1H2M58S",
+            "realtime_t": 3778,
+            "realtime_noloads": "PT1H0.490S",
+            "realtime_noloads_t": 3600.49,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 4,
+        "run": {
+          "id": "zxn6qq8m",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zxn6qq8m",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/ItXs2iRbGno" }] },
+          "comment": "katie4Mini",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-01-09T10:15:28Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "pj0d32mx",
+              "uri": "https://www.speedrun.com/api/v1/users/pj0d32mx"
+            }
+          ],
+          "date": "2023-01-08",
+          "submitted": "2023-01-09T03:32:19Z",
+          "times": {
+            "primary": "PT1H3M35.480S",
+            "primary_t": 3815.48,
+            "realtime": "PT1H6M13S",
+            "realtime_t": 3973,
+            "realtime_noloads": "PT1H3M35.480S",
+            "realtime_noloads_t": 3815.48,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 5,
+        "run": {
+          "id": "z1qk0vgy",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/z1qk0vgy",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1748972739" }]
+          },
+          "comment": "more improvement, more to come, blah blah blah this run could be better, blah blah blah",
+          "status": {
+            "status": "verified",
+            "examiner": "j4q9dqdx",
+            "verify-date": "2023-02-26T01:42:34Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "qj2wpe6j",
+              "uri": "https://www.speedrun.com/api/v1/users/qj2wpe6j"
+            }
+          ],
+          "date": "2023-02-25",
+          "submitted": "2023-02-25T19:18:55Z",
+          "times": {
+            "primary": "PT1H4M27.560S",
+            "primary_t": 3867.56,
+            "realtime": "PT1H7M45S",
+            "realtime_t": 4065,
+            "realtime_noloads": "PT1H4M27.560S",
+            "realtime_noloads_t": 3867.56,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 6,
+        "run": {
+          "id": "m3lvxv6m",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/m3lvxv6m",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/83_5uVrL_zg" }] },
+          "comment": "i am cool and good :)\r\n\r\nMod Note: GG, my mans is a gamin",
+          "status": {
+            "status": "verified",
+            "examiner": "j5wmvowj",
+            "verify-date": "2023-03-19T11:59:37Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "814020q8",
+              "uri": "https://www.speedrun.com/api/v1/users/814020q8"
+            }
+          ],
+          "date": "2023-03-19",
+          "submitted": "2023-03-19T04:44:49Z",
+          "times": {
+            "primary": "PT1H5M12.820S",
+            "primary_t": 3912.82,
+            "realtime": "PT1H8M34S",
+            "realtime_t": 4114,
+            "realtime_noloads": "PT1H5M12.820S",
+            "realtime_noloads_t": 3912.82,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 7,
+        "run": {
+          "id": "zg28p50y",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zg28p50y",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1746445167" }]
+          },
+          "comment": "mod note: huge ggs gigachad, this run was insane Pog",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-02-24T10:52:24Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x35mkokj",
+              "uri": "https://www.speedrun.com/api/v1/users/x35mkokj"
+            }
+          ],
+          "date": "2023-02-23",
+          "submitted": "2023-02-23T05:05:48Z",
+          "times": {
+            "primary": "PT1H5M54.480S",
+            "primary_t": 3954.48,
+            "realtime": "PT1H9M25S",
+            "realtime_t": 4165,
+            "realtime_noloads": "PT1H5M54.480S",
+            "realtime_noloads_t": 3954.48,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 8,
+        "run": {
+          "id": "y96d4oey",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y96d4oey",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=vZOMm21fgaE" }]
+          },
+          "comment": "mod note: hugeee ggs, sub 1:06 soon, removed rta ms off of submission",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-03-10T22:30:30Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8rl5v7d8",
+              "uri": "https://www.speedrun.com/api/v1/users/8rl5v7d8"
+            }
+          ],
+          "date": "2023-03-10",
+          "submitted": "2023-03-10T11:04:41Z",
+          "times": {
+            "primary": "PT1H6M0.330S",
+            "primary_t": 3960.33,
+            "realtime": "PT1H8M41S",
+            "realtime_t": 4121,
+            "realtime_noloads": "PT1H6M0.330S",
+            "realtime_noloads_t": 3960.33,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 9,
+        "run": {
+          "id": "m72evoez",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/m72evoez",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1765653638" }]
+          },
+          "comment": "WidePeepoHappy Getting close to somewhere WidePeepoHappy \r\nMuch love as always to the community, Happy Frontiering CatBoo\r\n\r\nMod Note: GG Bro! FeelsWowMan. Gabe Any% WR ",
+          "status": {
+            "status": "verified",
+            "examiner": "j5wmvowj",
+            "verify-date": "2023-03-15T07:01:43Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "0jmol5n8",
+              "uri": "https://www.speedrun.com/api/v1/users/0jmol5n8"
+            }
+          ],
+          "date": "2023-03-15",
+          "submitted": "2023-03-15T05:49:49Z",
+          "times": {
+            "primary": "PT1H6M14.800S",
+            "primary_t": 3974.8,
+            "realtime": "PT1H8M54S",
+            "realtime_t": 4134,
+            "realtime_noloads": "PT1H6M14.800S",
+            "realtime_noloads_t": 3974.8,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": {
+            "rel": "splits.io",
+            "uri": "https://splits.io/api/v3/runs/ak26"
+          },
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 10,
+        "run": {
+          "id": "z0nolo4m",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/z0nolo4m",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1719022755" }]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "j4q9dqdx",
+            "verify-date": "2023-01-27T22:40:42Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8v50pgyj",
+              "uri": "https://www.speedrun.com/api/v1/users/8v50pgyj"
+            }
+          ],
+          "date": "2023-01-26",
+          "submitted": "2023-01-26T16:00:27Z",
+          "times": {
+            "primary": "PT1H6M34.730S",
+            "primary_t": 3994.73,
+            "realtime": "PT1H9M52S",
+            "realtime_t": 4192,
+            "realtime_noloads": "PT1H6M34.730S",
+            "realtime_noloads_t": 3994.73,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 11,
+        "run": {
+          "id": "z1qq46gy",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/z1qq46gy",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=OLX1kq2fptI" }]
+          },
+          "comment": "scuffed but 1:07 pagman",
+          "status": {
+            "status": "verified",
+            "examiner": "j5wmvowj",
+            "verify-date": "2023-02-15T09:41:17Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "j0v5remx",
+              "uri": "https://www.speedrun.com/api/v1/users/j0v5remx"
+            }
+          ],
+          "date": "2023-02-14",
+          "submitted": "2023-02-14T20:49:51Z",
+          "times": {
+            "primary": "PT1H7M46.550S",
+            "primary_t": 4066.55,
+            "realtime": "PT1H10M35S",
+            "realtime_t": 4235,
+            "realtime_noloads": "PT1H7M46.550S",
+            "realtime_noloads_t": 4066.55,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 12,
+        "run": {
+          "id": "y4gldoky",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y4gldoky",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1760763079" }]
+          },
+          "comment": "first night back from a month break and got a pb lets freaking go\r\n\r\nmod note: welcome back ayla, huge ggs, god gamer hiatus moment",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-03-10T09:11:10Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "5j56mlqx",
+              "uri": "https://www.speedrun.com/api/v1/users/5j56mlqx"
+            }
+          ],
+          "date": "2023-03-05",
+          "submitted": "2023-03-10T05:11:23Z",
+          "times": {
+            "primary": "PT1H8M25.330S",
+            "primary_t": 4105.33,
+            "realtime": "PT1H11M23S",
+            "realtime_t": 4283,
+            "realtime_noloads": "PT1H8M25.330S",
+            "realtime_noloads_t": 4105.33,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 13,
+        "run": {
+          "id": "m3l081gm",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/m3l081gm",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=7iTLIn4uSCM" }]
+          },
+          "comment": "Recording struggled quite a bit with the audio for the first two minutes of fishing, hopefully this still makes my first sub 1:10 valid to be here :D\r\n\r\nMod Note: It still valid because u too fast mah boy. Gg and this was so much fun to watch! Sub 1 ez for ye",
+          "status": {
+            "status": "verified",
+            "examiner": "j5wmvowj",
+            "verify-date": "2023-03-04T10:28:11Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "qxk416mj",
+              "uri": "https://www.speedrun.com/api/v1/users/qxk416mj"
+            }
+          ],
+          "date": "2023-03-02",
+          "submitted": "2023-03-03T19:28:12Z",
+          "times": {
+            "primary": "PT1H9M40.440S",
+            "primary_t": 4180.44,
+            "realtime": "PT1H12M38S",
+            "realtime_t": 4358,
+            "realtime_noloads": "PT1H9M40.440S",
+            "realtime_noloads_t": 4180.44,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 14,
+        "run": {
+          "id": "yj8866gm",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/yj8866gm",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/fyCVRFCB4A4" }] },
+          "comment": "This game finds new and interesting ways to make absolutely no sense at all.",
+          "status": {
+            "status": "verified",
+            "examiner": "j5wmvowj",
+            "verify-date": "2023-02-11T01:35:43Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "pj0kln48",
+              "uri": "https://www.speedrun.com/api/v1/users/pj0kln48"
+            }
+          ],
+          "date": "2023-02-10",
+          "submitted": "2023-02-10T19:06:30Z",
+          "times": {
+            "primary": "PT1H9M50.840S",
+            "primary_t": 4190.84,
+            "realtime": "PT1H13M1S",
+            "realtime_t": 4381,
+            "realtime_noloads": "PT1H9M50.840S",
+            "realtime_noloads_t": 4190.84,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 15,
+        "run": {
+          "id": "znjj19vm",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/znjj19vm",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=0m4CRbc2lic" }]
+          },
+          "comment": "zzz\r\n\r\nMod Note: Huge gg dude!!! Removed time from IGT",
+          "status": {
+            "status": "verified",
+            "examiner": "j5wmvowj",
+            "verify-date": "2023-02-12T09:38:36Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8wkm7mz8",
+              "uri": "https://www.speedrun.com/api/v1/users/8wkm7mz8"
+            }
+          ],
+          "date": "2023-02-10",
+          "submitted": "2023-02-11T08:07:09Z",
+          "times": {
+            "primary": "PT1H10M4.360S",
+            "primary_t": 4204.36,
+            "realtime": "PT1H12M46S",
+            "realtime_t": 4366,
+            "realtime_noloads": "PT1H10M4.360S",
+            "realtime_noloads_t": 4204.36,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 16,
+        "run": {
+          "id": "y2jw6j6z",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y2jw6j6z",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1760130484" }]
+          },
+          "comment": "YA BOY IS A GAMIN! SUB 1:11 BABY\r\n\r\nRun starts at 11:03\r\n\r\nmod note: absolutely insanely cracked bro, lowkey sa2 shoes + afro coco carried Kappa super well deserved bro, cant be more proud of you PogChamp",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-03-10T06:21:30Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "j5wmvowj",
+              "uri": "https://www.speedrun.com/api/v1/users/j5wmvowj"
+            }
+          ],
+          "date": "2023-03-10",
+          "submitted": "2023-03-09T16:23:21Z",
+          "times": {
+            "primary": "PT1H10M57.450S",
+            "primary_t": 4257.45,
+            "realtime": "PT1H14M31S",
+            "realtime_t": 4471,
+            "realtime_noloads": "PT1H10M57.450S",
+            "realtime_noloads_t": 4257.45,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 17,
+        "run": {
+          "id": "zpg340rz",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zpg340rz",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/i3kbBbnDDYM" }] },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "qjn2z2jm",
+            "verify-date": "2023-01-06T07:57:32Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "5j5wg3zj",
+              "uri": "https://www.speedrun.com/api/v1/users/5j5wg3zj"
+            }
+          ],
+          "date": "2023-01-05",
+          "submitted": "2023-01-06T03:28:00Z",
+          "times": {
+            "primary": "PT1H13M26S",
+            "primary_t": 4406,
+            "realtime": "PT1H16M11S",
+            "realtime_t": 4571,
+            "realtime_noloads": "PT1H13M26S",
+            "realtime_noloads_t": 4406,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 18,
+        "run": {
+          "id": "zg2nd1dy",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zg2nd1dy",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/A9WbFvnMJ3c" }] },
+          "comment": "orion try to remember the route challenge",
+          "status": {
+            "status": "verified",
+            "examiner": "98r1mk6j",
+            "verify-date": "2022-12-05T17:15:24Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "jmo320e8",
+              "uri": "https://www.speedrun.com/api/v1/users/jmo320e8"
+            }
+          ],
+          "date": "2022-12-04",
+          "submitted": "2022-12-05T02:25:15Z",
+          "times": {
+            "primary": "PT1H14M19.350S",
+            "primary_t": 4459.35,
+            "realtime": "PT1H17M21S",
+            "realtime_t": 4641,
+            "realtime_noloads": "PT1H14M19.350S",
+            "realtime_noloads_t": 4459.35,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 19,
+        "run": {
+          "id": "mkv4k8ly",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/mkv4k8ly",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=05VfngpwBxU" }]
+          },
+          "comment": "mod note: huge ggs grimmy, proud to see your huge any% grind, well deserved!! :))",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2022-12-06T16:00:22Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "1xyym4mx",
+              "uri": "https://www.speedrun.com/api/v1/users/1xyym4mx"
+            }
+          ],
+          "date": "2022-12-05",
+          "submitted": "2022-12-05T04:37:29Z",
+          "times": {
+            "primary": "PT1H15M35.690S",
+            "primary_t": 4535.69,
+            "realtime": "PT1H18M40S",
+            "realtime_t": 4720,
+            "realtime_noloads": "PT1H15M35.690S",
+            "realtime_noloads_t": 4535.69,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 20,
+        "run": {
+          "id": "mkvg0x1y",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/mkvg0x1y",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=GpigFSl74oo" }]
+          },
+          "comment": "that start was horrendous, but WOOO SUB 1:20!!!11!11!",
+          "status": {
+            "status": "verified",
+            "examiner": "pj0kln48",
+            "verify-date": "2023-01-16T06:46:37Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "jnzl70wj",
+              "uri": "https://www.speedrun.com/api/v1/users/jnzl70wj"
+            }
+          ],
+          "date": "2023-01-15",
+          "submitted": "2023-01-15T08:43:23Z",
+          "times": {
+            "primary": "PT1H16M21.100S",
+            "primary_t": 4581.1,
+            "realtime": "PT1H19M18S",
+            "realtime_t": 4758,
+            "realtime_noloads": "PT1H16M21.100S",
+            "realtime_noloads_t": 4581.1,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 21,
+        "run": {
+          "id": "zqerjd8z",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zqerjd8z",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1684907167" }]
+          },
+          "comment": "4-8 and SES are too difficult",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2022-12-25T19:47:17Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "jnp7ykd8",
+              "uri": "https://www.speedrun.com/api/v1/users/jnp7ykd8"
+            }
+          ],
+          "date": "2022-12-21",
+          "submitted": "2022-12-21T13:15:04Z",
+          "times": {
+            "primary": "PT1H16M37.650S",
+            "primary_t": 4597.65,
+            "realtime": "PT1H19M34S",
+            "realtime_t": 4774,
+            "realtime_noloads": "PT1H16M37.650S",
+            "realtime_noloads_t": 4597.65,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 22,
+        "run": {
+          "id": "zg27g2ny",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zg27g2ny",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/oUUsIWZHPwk" }] },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "qjn2z2jm",
+            "verify-date": "2022-12-12T02:41:16Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "xy5qm9v8",
+              "uri": "https://www.speedrun.com/api/v1/users/xy5qm9v8"
+            }
+          ],
+          "date": "2022-12-11",
+          "submitted": "2022-12-12T01:35:01Z",
+          "times": {
+            "primary": "PT1H16M43.710S",
+            "primary_t": 4603.71,
+            "realtime": "PT1H20M26S",
+            "realtime_t": 4826,
+            "realtime_noloads": "PT1H16M43.710S",
+            "realtime_noloads_t": 4603.71,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 23,
+        "run": {
+          "id": "meeop90m",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/meeop90m",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1692308695" }]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-01-03T15:43:48Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "0jmk33ox",
+              "uri": "https://www.speedrun.com/api/v1/users/0jmk33ox"
+            }
+          ],
+          "date": "2022-12-29",
+          "submitted": "2022-12-29T21:53:06Z",
+          "times": {
+            "primary": "PT1H17M28.890S",
+            "primary_t": 4648.89,
+            "realtime": "PT1H21M1S",
+            "realtime_t": 4861,
+            "realtime_noloads": "PT1H17M28.890S",
+            "realtime_noloads_t": 4648.89,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 24,
+        "run": {
+          "id": "m3l5gd6m",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/m3l5gd6m",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=fF4zl21L9_o\u0026ab_channel=Shizuka"
+              }
+            ]
+          },
+          "comment": "God Run, it will be really hard to beat with my actuel level.\r\nNo Hit \u0026 Run.\r\n\r\nNotable Timeloss : \r\n- 20 sec Pinball Skip\r\n- 20 sec 6th Tower\r\n- 10 sec Supreme",
+          "status": {
+            "status": "verified",
+            "examiner": "pj0kln48",
+            "verify-date": "2022-12-29T19:33:13Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "qjopwl3x",
+              "uri": "https://www.speedrun.com/api/v1/users/qjopwl3x"
+            }
+          ],
+          "date": "2022-12-26",
+          "submitted": "2022-12-26T00:50:21Z",
+          "times": {
+            "primary": "PT1H17M32.760S",
+            "primary_t": 4652.76,
+            "realtime": "PT1H21M23S",
+            "realtime_t": 4883,
+            "realtime_noloads": "PT1H17M32.760S",
+            "realtime_noloads_t": 4652.76,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": {
+            "rel": "splits.io",
+            "uri": "https://splits.io/api/v3/runs/a9kr"
+          },
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 25,
+        "run": {
+          "id": "zqe1kw5z",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zqe1kw5z",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=W3Lrvn1iLQY" }]
+          },
+          "comment": "Not quite there yet, but its looking nicer for sure",
+          "status": {
+            "status": "verified",
+            "examiner": "pj0kln48",
+            "verify-date": "2023-01-15T18:50:10Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "qjn95qxm",
+              "uri": "https://www.speedrun.com/api/v1/users/qjn95qxm"
+            }
+          ],
+          "date": "2023-01-12",
+          "submitted": "2023-01-11T14:16:10Z",
+          "times": {
+            "primary": "PT1H17M36.250S",
+            "primary_t": 4656.25,
+            "realtime": "PT1H21M11S",
+            "realtime_t": 4871,
+            "realtime_noloads": "PT1H17M36.250S",
+            "realtime_noloads_t": 4656.25,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 26,
+        "run": {
+          "id": "z5e713ez",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/z5e713ez",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1679524380" }]
+          },
+          "comment": "mod note: removed ms from rta, ggs",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2022-12-21T16:15:40Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8rlkm0q8",
+              "uri": "https://www.speedrun.com/api/v1/users/8rlkm0q8"
+            }
+          ],
+          "date": "2022-12-18",
+          "submitted": "2022-12-18T05:07:29Z",
+          "times": {
+            "primary": "PT1H17M54.030S",
+            "primary_t": 4674.03,
+            "realtime": "PT1H21M56S",
+            "realtime_t": 4916,
+            "realtime_noloads": "PT1H17M54.030S",
+            "realtime_noloads_t": 4674.03,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 27,
+        "run": {
+          "id": "zg2v2wjy",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zg2v2wjy",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=RqdPO3I3jz4" }]
+          },
+          "comment": "A really good run, subspaces are still in my nightmares but the overall run is good.\r\n\r\nNow, onto slingshoots :D\r\n\r\nmod note: removed ms from rta field",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-01-04T07:35:52Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "j5wgn2wj",
+              "uri": "https://www.speedrun.com/api/v1/users/j5wgn2wj"
+            }
+          ],
+          "date": "2023-01-01",
+          "submitted": "2023-01-02T22:01:25Z",
+          "times": {
+            "primary": "PT1H17M57.300S",
+            "primary_t": 4677.3,
+            "realtime": "PT1H24M59S",
+            "realtime_t": 5099,
+            "realtime_noloads": "PT1H17M57.300S",
+            "realtime_noloads_t": 4677.3,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": {
+            "rel": "splits.io",
+            "uri": "https://splits.io/api/v3/runs/aaob"
+          },
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 28,
+        "run": {
+          "id": "y8001q5m",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y8001q5m",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1733693510" }]
+          },
+          "comment": "Great improvement, still a few things that could be improved, very proud of this one\r\n\r\nMod Note: gg, sub 1:20 is absolutely insane. Added ms to LRT, removed IGT",
+          "status": {
+            "status": "verified",
+            "examiner": "j5wmvowj",
+            "verify-date": "2023-02-10T10:22:37Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8l35dpv8",
+              "uri": "https://www.speedrun.com/api/v1/users/8l35dpv8"
+            }
+          ],
+          "date": "2023-02-09",
+          "submitted": "2023-02-10T04:04:31Z",
+          "times": {
+            "primary": "PT1H19M20.200S",
+            "primary_t": 4760.2,
+            "realtime": "PT1H22M14S",
+            "realtime_t": 4934,
+            "realtime_noloads": "PT1H19M20.200S",
+            "realtime_noloads_t": 4760.2,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 29,
+        "run": {
+          "id": "y4g235ky",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y4g235ky",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/qauinEHcIrU" }] },
+          "comment": "I messed up a lot, but I\u0027m still pretty proud of this run.\r\n\r\nmod note: huge ggs on the sub 1:20, added ms to lrt",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-01-06T10:53:54Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "j5qe2z6j",
+              "uri": "https://www.speedrun.com/api/v1/users/j5qe2z6j"
+            }
+          ],
+          "date": "2023-01-05",
+          "submitted": "2023-01-05T22:05:34Z",
+          "times": {
+            "primary": "PT1H19M26.510S",
+            "primary_t": 4766.51,
+            "realtime": "PT1H23M2S",
+            "realtime_t": 4982,
+            "realtime_noloads": "PT1H19M26.510S",
+            "realtime_noloads_t": 4766.51,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 30,
+        "run": {
+          "id": "ylnjkj3z",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/ylnjkj3z",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1767877613" }]
+          },
+          "comment": "one-take wonder\r\n\r\nmod note: absolute legend, man only needs one take cuz he\u0027s too cracked. ggs bro",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-03-17T19:50:05Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8rpyql3j",
+              "uri": "https://www.speedrun.com/api/v1/users/8rpyql3j"
+            }
+          ],
+          "date": "2023-03-17",
+          "submitted": "2023-03-17T18:46:19Z",
+          "times": {
+            "primary": "PT1H21M35.530S",
+            "primary_t": 4895.53,
+            "realtime": "PT1H25M32S",
+            "realtime_t": 5132,
+            "realtime_noloads": "PT1H21M35.530S",
+            "realtime_noloads_t": 4895.53,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 31,
+        "run": {
+          "id": "zg2ep6jy",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zg2ep6jy",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/AB30_q434jA" }] },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-02-19T00:15:06Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "7j4v30lj",
+              "uri": "https://www.speedrun.com/api/v1/users/7j4v30lj"
+            }
+          ],
+          "date": "2023-02-17",
+          "submitted": "2023-02-18T04:12:35Z",
+          "times": {
+            "primary": "PT1H22M14.170S",
+            "primary_t": 4934.17,
+            "realtime": "PT1H25M25S",
+            "realtime_t": 5125,
+            "realtime_noloads": "PT1H22M14.170S",
+            "realtime_noloads_t": 4934.17,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": {
+            "rel": "splits.io",
+            "uri": "https://splits.io/api/v3/runs/agwr"
+          },
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 32,
+        "run": {
+          "id": "yln9522z",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/yln9522z",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=riiX88S0gUM\u0026ab_channel=sukimos"
+              }
+            ]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "98r1mk6j",
+            "verify-date": "2022-12-14T19:01:34Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "18qzlm08",
+              "uri": "https://www.speedrun.com/api/v1/users/18qzlm08"
+            }
+          ],
+          "date": "2022-12-08",
+          "submitted": "2022-12-08T12:20:08Z",
+          "times": {
+            "primary": "PT1H22M41.670S",
+            "primary_t": 4961.67,
+            "realtime": "PT1H25M34S",
+            "realtime_t": 5134,
+            "realtime_noloads": "PT1H22M41.670S",
+            "realtime_noloads_t": 4961.67,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": {
+            "rel": "splits.io",
+            "uri": "https://splits.io/api/v3/runs/a7ns"
+          },
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 33,
+        "run": {
+          "id": "ydgqxkqy",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/ydgqxkqy",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=QDeMIVKFt4g" }]
+          },
+          "comment": "mod note: beeg ggs blaire, fixed ms in submission and removed ms from rta. the milliseconds on livesplits \u00223.18\u0022 translate to 180 milliseconds instead of 018",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2022-12-15T06:21:23Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8ew75128",
+              "uri": "https://www.speedrun.com/api/v1/users/8ew75128"
+            }
+          ],
+          "date": "2022-12-08",
+          "submitted": "2022-12-09T03:35:51Z",
+          "times": {
+            "primary": "PT1H23M3.180S",
+            "primary_t": 4983.18,
+            "realtime": "PT1H26M29S",
+            "realtime_t": 5189,
+            "realtime_noloads": "PT1H23M3.180S",
+            "realtime_noloads_t": 4983.18,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 34,
+        "run": {
+          "id": "z1q5dwjy",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/z1q5dwjy",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=UkTe1mrjI7k" }]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "5j5wg3zj",
+            "verify-date": "2022-12-30T23:54:55Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "kjpr1nk8",
+              "uri": "https://www.speedrun.com/api/v1/users/kjpr1nk8"
+            }
+          ],
+          "date": "2022-12-24",
+          "submitted": "2022-12-24T17:23:25Z",
+          "times": {
+            "primary": "PT1H23M29.770S",
+            "primary_t": 5009.77,
+            "realtime": "PT1H26M1S",
+            "realtime_t": 5161,
+            "realtime_noloads": "PT1H23M29.770S",
+            "realtime_noloads_t": 5009.77,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 35,
+        "run": {
+          "id": "z1q13xgy",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/z1q13xgy",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1675192768" }]
+          },
+          "comment": "i have got to stop chokinnnggggggg\r\n\r\nmod note: big GGs, removed ms from rta",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2022-12-13T02:30:31Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "xz7ed7rj",
+              "uri": "https://www.speedrun.com/api/v1/users/xz7ed7rj"
+            }
+          ],
+          "date": "2022-12-10",
+          "submitted": "2022-12-10T08:40:41Z",
+          "times": {
+            "primary": "PT1H25M6.820S",
+            "primary_t": 5106.82,
+            "realtime": "PT1H28M2S",
+            "realtime_t": 5282,
+            "realtime_noloads": "PT1H25M6.820S",
+            "realtime_noloads_t": 5106.82,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 36,
+        "run": {
+          "id": "z1q1l6ry",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/z1q1l6ry",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1678293933" }]
+          },
+          "comment": "We getting faster baby",
+          "status": {
+            "status": "verified",
+            "examiner": "pj0kln48",
+            "verify-date": "2022-12-18T20:20:20Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "xk121vkj",
+              "uri": "https://www.speedrun.com/api/v1/users/xk121vkj"
+            }
+          ],
+          "date": "2022-12-13",
+          "submitted": "2022-12-14T02:51:10Z",
+          "times": {
+            "primary": "PT1H25M41.130S",
+            "primary_t": 5141.13,
+            "realtime": "PT1H28M54S",
+            "realtime_t": 5334,
+            "realtime_noloads": "PT1H25M41.130S",
+            "realtime_noloads_t": 5141.13,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 37,
+        "run": {
+          "id": "m3lnkodm",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/m3lnkodm",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1700975721" }]
+          },
+          "comment": "4th full run but first submission. Getting SES fast saves me so much time. Sub-1:25 soon COPIUM\r\n\r\nmod note: nice run, i believe in the sub 1:25. removed ms in rta",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-01-09T08:49:52Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "j205w0px",
+              "uri": "https://www.speedrun.com/api/v1/users/j205w0px"
+            }
+          ],
+          "date": "2023-01-06",
+          "submitted": "2023-01-08T20:40:22Z",
+          "times": {
+            "primary": "PT1H26M12.750S",
+            "primary_t": 5172.75,
+            "realtime": "PT1H29M55S",
+            "realtime_t": 5395,
+            "realtime_noloads": "PT1H26M12.750S",
+            "realtime_noloads_t": 5172.75,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 38,
+        "run": {
+          "id": "ydgq8ewy",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/ydgq8ewy",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/wPwuq0Mm-Wk" }] },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "5j5wg3zj",
+            "verify-date": "2022-12-05T19:35:42Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "qj2zpo7j",
+              "uri": "https://www.speedrun.com/api/v1/users/qj2zpo7j"
+            }
+          ],
+          "date": "2022-12-02",
+          "submitted": "2022-12-02T12:17:57Z",
+          "times": {
+            "primary": "PT1H26M15.640S",
+            "primary_t": 5175.64,
+            "realtime": "PT1H29M12S",
+            "realtime_t": 5352,
+            "realtime_noloads": "PT1H26M15.640S",
+            "realtime_noloads_t": 5175.64,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "p2g50lnk"
+          },
+          "splits": {
+            "rel": "splits.io",
+            "uri": "https://splits.io/api/v3/runs/a6zh"
+          },
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 39,
+        "run": {
+          "id": "y6oqx0py",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y6oqx0py",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/BVaMSS-V4CY" }] },
+          "comment": "birthday pb",
+          "status": {
+            "status": "verified",
+            "examiner": "j4q9dqdx",
+            "verify-date": "2023-02-23T21:16:32Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "qxkmoqkj",
+              "uri": "https://www.speedrun.com/api/v1/users/qxkmoqkj"
+            }
+          ],
+          "date": "2023-02-22",
+          "submitted": "2023-02-23T09:25:48Z",
+          "times": {
+            "primary": "PT1H26M27.750S",
+            "primary_t": 5187.75,
+            "realtime": "PT1H29M39S",
+            "realtime_t": 5379,
+            "realtime_noloads": "PT1H26M27.750S",
+            "realtime_noloads_t": 5187.75,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 40,
+        "run": {
+          "id": "zqer2wxz",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zqer2wxz",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1685921790" }]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "pj0kln48",
+            "verify-date": "2022-12-25T19:04:26Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "68w1po4x",
+              "uri": "https://www.speedrun.com/api/v1/users/68w1po4x"
+            }
+          ],
+          "date": "2022-12-22",
+          "submitted": "2022-12-22T14:41:53Z",
+          "times": {
+            "primary": "PT1H29M3.230S",
+            "primary_t": 5343.23,
+            "realtime": "PT1H32M58S",
+            "realtime_t": 5578,
+            "realtime_noloads": "PT1H29M3.230S",
+            "realtime_noloads_t": 5343.23,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 41,
+        "run": {
+          "id": "mkv18gxy",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/mkv18gxy",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/NOmkBvGmwhI" }] },
+          "comment": "I\u0027m quite happy with this run, now to learn the current route\r\n\r\nmod note: huge ggs, removed rta ms from submission",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-03-09T06:42:54Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8vk4vvyj",
+              "uri": "https://www.speedrun.com/api/v1/users/8vk4vvyj"
+            }
+          ],
+          "date": "2023-03-05",
+          "submitted": "2023-03-05T20:08:56Z",
+          "times": {
+            "primary": "PT1H29M42.770S",
+            "primary_t": 5382.77,
+            "realtime": "PT1H33M10S",
+            "realtime_t": 5590,
+            "realtime_noloads": "PT1H29M42.770S",
+            "realtime_noloads_t": 5382.77,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 42,
+        "run": {
+          "id": "zqe9vdrz",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zqe9vdrz",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/AofciNcx4d0" }] },
+          "comment": "I guess alright for the 3rd run.\r\n- Missed WES\r\n- Like 7th try Pinball skip\r\n- Overall sloppy movement\r\n\r\nmod note: great tbh for your 3rd run, ggs. retimed rta to 1:34:33",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-02-05T20:34:47Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "18v1rne8",
+              "uri": "https://www.speedrun.com/api/v1/users/18v1rne8"
+            }
+          ],
+          "date": "2023-02-05",
+          "submitted": "2023-02-05T17:16:38Z",
+          "times": {
+            "primary": "PT1H31M16.480S",
+            "primary_t": 5476.48,
+            "realtime": "PT1H34M33S",
+            "realtime_t": 5673,
+            "realtime_noloads": "PT1H31M16.480S",
+            "realtime_noloads_t": 5476.48,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 43,
+        "run": {
+          "id": "yv0wo3oz",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/yv0wo3oz",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://youtu.be/G033ceWGZ4s?t=796" }]
+          },
+          "comment": "sorry for the huge extra chunk of times, thought credits had to be included or something :P\r\n\r\n*Mod comments: Run starts at 13:22. Removed In-game time.*",
+          "status": {
+            "status": "verified",
+            "examiner": "y8dk4y5j",
+            "verify-date": "2022-11-22T19:47:35Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "5j5y0ez8",
+              "uri": "https://www.speedrun.com/api/v1/users/5j5y0ez8"
+            }
+          ],
+          "date": "2022-11-22",
+          "submitted": "2022-11-22T08:42:18Z",
+          "times": {
+            "primary": "PT1H31M42.860S",
+            "primary_t": 5502.86,
+            "realtime": "PT1H34M35S",
+            "realtime_t": 5675,
+            "realtime_noloads": "PT1H31M42.860S",
+            "realtime_noloads_t": 5502.86,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 44,
+        "run": {
+          "id": "yl1g5nnm",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/yl1g5nnm",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/rVhfA27Z06E" }] },
+          "comment": "I beat 1:35 which is what I was aiming for. There\u0027s some obvious slip ups I made (Green Forest death, falling off the 6th tower on Rhea Island like 3 times, etc) so maybe next time I\u0027ll even beat 1:30!",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2022-11-25T14:47:44Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "dx3qp26j",
+              "uri": "https://www.speedrun.com/api/v1/users/dx3qp26j"
+            }
+          ],
+          "date": "2022-11-24",
+          "submitted": "2022-11-25T10:48:27Z",
+          "times": {
+            "primary": "PT1H31M46.240S",
+            "primary_t": 5506.24,
+            "realtime": "PT1H34M22S",
+            "realtime_t": 5662,
+            "realtime_noloads": "PT1H31M46.240S",
+            "realtime_noloads_t": 5506.24,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 45,
+        "run": {
+          "id": "yd1k7ewy",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/yd1k7ewy",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1662853103" }]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2022-11-26T23:18:41Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "zx74qr6x",
+              "uri": "https://www.speedrun.com/api/v1/users/zx74qr6x"
+            }
+          ],
+          "date": "2022-11-25",
+          "submitted": "2022-11-26T02:38:55Z",
+          "times": {
+            "primary": "PT1H31M46.990S",
+            "primary_t": 5506.99,
+            "realtime": "PT1H35M28S",
+            "realtime_t": 5728,
+            "realtime_noloads": "PT1H31M46.990S",
+            "realtime_noloads_t": 5506.99,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 46,
+        "run": {
+          "id": "y2j9kgjz",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y2j9kgjz",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1665530322" }]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2022-12-02T09:30:48Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "48gdmy8p",
+              "uri": "https://www.speedrun.com/api/v1/users/48gdmy8p"
+            }
+          ],
+          "date": "2022-11-29",
+          "submitted": "2022-11-29T05:02:18Z",
+          "times": {
+            "primary": "PT1H32M53.800S",
+            "primary_t": 5573.8,
+            "realtime": "PT1H35M56S",
+            "realtime_t": 5756,
+            "realtime_noloads": "PT1H32M53.800S",
+            "realtime_noloads_t": 5573.8,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 47,
+        "run": {
+          "id": "zgq4g4dy",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zgq4g4dy",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/xbZH-BaSEo4" }] },
+          "comment": "Fun last PB before the boards open, now I just need to not screw up simple things like sky dive minigame :)\r\n\r\nhttps://splits.io/a5wd?claim_token=Qf3LgGSFeK66hXJaMc9dYez3\r\n(splits.io doesn\u0027t seem to be working but maybe it\u0027ll fix itself soon)",
+          "status": {
+            "status": "verified",
+            "examiner": "5j5wg3zj",
+            "verify-date": "2022-11-23T05:35:46Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "98ro0768",
+              "uri": "https://www.speedrun.com/api/v1/users/98ro0768"
+            }
+          ],
+          "date": "2022-11-21",
+          "submitted": "2022-11-22T07:03:32Z",
+          "times": {
+            "primary": "PT1H34M52.540S",
+            "primary_t": 5692.54,
+            "realtime": "PT1H37M51S",
+            "realtime_t": 5871,
+            "realtime_noloads": "PT1H34M52.540S",
+            "realtime_noloads_t": 5692.54,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 48,
+        "run": {
+          "id": "y4g5endy",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y4g5endy",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1669754371" }]
+          },
+          "comment": "I think I did pretty decent. Need to learn better routes but I\u0027m proud of it. All\u0027s well that ends well, right?\r\n\r\nmod note: ggs, you did great! removed milliseconds from RTA and removed the IGT",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2022-12-08T14:04:37Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "j960n3nj",
+              "uri": "https://www.speedrun.com/api/v1/users/j960n3nj"
+            }
+          ],
+          "date": "2022-12-03",
+          "submitted": "2022-12-04T02:11:46Z",
+          "times": {
+            "primary": "PT1H35M45.140S",
+            "primary_t": 5745.14,
+            "realtime": "PT1H39M17S",
+            "realtime_t": 5957,
+            "realtime_noloads": "PT1H35M45.140S",
+            "realtime_noloads_t": 5745.14,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 49,
+        "run": {
+          "id": "y9651pky",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y9651pky",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/ZWT6Ttey-iw" }] },
+          "comment": "Run with tutorial skip and emerald storage. Next up I\u2019ll try to get wyvern skip. Not a terrible run but still not where I want to be ",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2022-12-19T15:45:17Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "81696zpx",
+              "uri": "https://www.speedrun.com/api/v1/users/81696zpx"
+            }
+          ],
+          "date": "2022-12-18",
+          "submitted": "2022-12-19T05:04:18Z",
+          "times": {
+            "primary": "PT1H36M38.780S",
+            "primary_t": 5798.78,
+            "realtime": "PT1H42M20S",
+            "realtime_t": 6140,
+            "realtime_noloads": "PT1H36M38.780S",
+            "realtime_noloads_t": 5798.78,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 50,
+        "run": {
+          "id": "z5e52gez",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/z5e52gez",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/ZJcxYadnSL8" }] },
+          "comment": "First stream session for a PB attempt.\r\nNext step =\u003E Sub 1:40",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2022-12-01T00:24:14Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "zxzyo64j",
+              "uri": "https://www.speedrun.com/api/v1/users/zxzyo64j"
+            }
+          ],
+          "date": "2022-11-28",
+          "submitted": "2022-11-28T02:11:35Z",
+          "times": {
+            "primary": "PT1H42M8.750S",
+            "primary_t": 6128.75,
+            "realtime": "PT1H45M",
+            "realtime_t": 6300,
+            "realtime_noloads": "PT1H42M8.750S",
+            "realtime_noloads_t": 6128.75,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 51,
+        "run": {
+          "id": "zqe3wqxz",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zqe3wqxz",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1676068781" }]
+          },
+          "comment": "First run I\u0027m submitting. I accidentally nearly reset the run after Big\u0027s Fishing, hoooopefully that doesn\u0027t disqualify it, but other than that, I\u0027m excited to improve this more.\r\n\r\nmod note: you\u0027re fine dw, GGs btw. Removed ms from rta submission ",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2022-12-16T05:38:26Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "e8epo7dx",
+              "uri": "https://www.speedrun.com/api/v1/users/e8epo7dx"
+            }
+          ],
+          "date": "2022-12-11",
+          "submitted": "2022-12-11T07:04:50Z",
+          "times": {
+            "primary": "PT1H46M51.410S",
+            "primary_t": 6411.41,
+            "realtime": "PT1H49M33S",
+            "realtime_t": 6573,
+            "realtime_noloads": "PT1H46M51.410S",
+            "realtime_noloads_t": 6411.41,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 52,
+        "run": {
+          "id": "y2jepj9z",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y2jepj9z",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1728694259" }]
+          },
+          "comment": "Mod Note: gg on the sub 2! Removed ms from RTA time",
+          "status": {
+            "status": "verified",
+            "examiner": "j5wmvowj",
+            "verify-date": "2023-02-06T04:36:50Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "0jmow7n8",
+              "uri": "https://www.speedrun.com/api/v1/users/0jmow7n8"
+            }
+          ],
+          "date": "2023-02-04",
+          "submitted": "2023-02-06T01:28:51Z",
+          "times": {
+            "primary": "PT1H53M49.520S",
+            "primary_t": 6829.52,
+            "realtime": "PT1H58M55S",
+            "realtime_t": 7135,
+            "realtime_noloads": "PT1H53M49.520S",
+            "realtime_noloads_t": 6829.52,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": {
+            "rel": "splits.io",
+            "uri": "https://splits.io/api/v3/runs/afi8"
+          },
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 53,
+        "run": {
+          "id": "y801e2wm",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y801e2wm",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1683578242" }]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "pj0kln48",
+            "verify-date": "2022-12-25T18:01:54Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x3m45gq8",
+              "uri": "https://www.speedrun.com/api/v1/users/x3m45gq8"
+            }
+          ],
+          "date": "2022-12-20",
+          "submitted": "2022-12-19T22:13:02Z",
+          "times": {
+            "primary": "PT2H9M57.420S",
+            "primary_t": 7797.42,
+            "realtime": "PT2H13M2S",
+            "realtime_t": 7982,
+            "realtime_noloads": "PT2H9M57.420S",
+            "realtime_noloads_t": 7797.42,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 54,
+        "run": {
+          "id": "zqek4g9z",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zqek4g9z",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1663917994" }]
+          },
+          "comment": "Kind of a shit run, but I am happy that i at least got some golds on this\r\n\r\nmod note: not bad, ggs :)",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2022-11-27T13:51:25Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "v81py0p8",
+              "uri": "https://www.speedrun.com/api/v1/users/v81py0p8"
+            }
+          ],
+          "date": "2022-11-27",
+          "submitted": "2022-11-27T07:19:25Z",
+          "times": {
+            "primary": "PT2H33M27.030S",
+            "primary_t": 9207.03,
+            "realtime": "PT2H36M15S",
+            "realtime_t": 9375,
+            "realtime_noloads": "PT2H33M27.030S",
+            "realtime_noloads_t": 9207.03,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "rqvnynw1", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 55,
+        "run": {
+          "id": "y2j8dr6z",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y2j8dr6z",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/WTm3jXTBrKM" }] },
+          "comment": "this one was for gay frog ",
+          "status": {
+            "status": "verified",
+            "examiner": "j4q9dqdx",
+            "verify-date": "2023-03-18T19:54:29Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "xyo2q1zj",
+              "uri": "https://www.speedrun.com/api/v1/users/xyo2q1zj"
+            }
+          ],
+          "date": "2023-03-17",
+          "submitted": "2023-03-17T23:24:59Z",
+          "times": {
+            "primary": "PT1H55S",
+            "primary_t": 3655,
+            "realtime": "PT1H55S",
+            "realtime_t": 3655,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "4p9zjrer",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "5lewxwzl", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 56,
+        "run": {
+          "id": "m72lgg4z",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/m72lgg4z",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=l4DMAQ_dnzI" }]
+          },
+          "comment": "nice\r\n\r\nmod note: nice, run starts at 1:23, huge ggs btw (also consider lessening the audio delay if you can, its consistent throughout so its fine)",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-03-19T07:07:54Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8r3361w8",
+              "uri": "https://www.speedrun.com/api/v1/users/8r3361w8"
+            }
+          ],
+          "date": "2023-03-17",
+          "submitted": "2023-03-17T15:21:57Z",
+          "times": {
+            "primary": "PT1H8M2S",
+            "primary_t": 4082,
+            "realtime": "PT1H8M2S",
+            "realtime_t": 4082,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "4p9zjrer",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "5lewxwzl", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 57,
+        "run": {
+          "id": "zpgx248z",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zpgx248z",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=ek9Mi7Hjjhs" }]
+          },
+          "comment": "Big Gay Frog",
+          "status": {
+            "status": "verified",
+            "examiner": "j4q9dqdx",
+            "verify-date": "2023-03-06T23:40:59Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "eo86qwxz",
+              "uri": "https://www.speedrun.com/api/v1/users/eo86qwxz"
+            }
+          ],
+          "date": "2023-03-05",
+          "submitted": "2023-03-06T16:42:43Z",
+          "times": {
+            "primary": "PT1H8M14S",
+            "primary_t": 4094,
+            "realtime": "PT1H8M14S",
+            "realtime_t": 4094,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "nzelyv9q",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": null,
+          "values": { "kn00373n": "5lewxwzl", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 58,
+        "run": {
+          "id": "znjxj18m",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/znjxj18m",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1758065833" }]
+          },
+          "comment": "Grinded nonstop last 4 days after returning from my break and despite being sick, got the 1:12 which was my primary goal. Will be shooting for more later\r\n\r\nMod Note: This man just came back and got a real good time. Good to have u back!",
+          "status": {
+            "status": "verified",
+            "examiner": "j5wmvowj",
+            "verify-date": "2023-03-07T14:34:12Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "j96ewl7j",
+              "uri": "https://www.speedrun.com/api/v1/users/j96ewl7j"
+            }
+          ],
+          "date": "2023-03-06",
+          "submitted": "2023-03-07T08:18:27Z",
+          "times": {
+            "primary": "PT1H12M17S",
+            "primary_t": 4337,
+            "realtime": "PT1H12M17S",
+            "realtime_t": 4337,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "4p9zjrer",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "5lewxwzl", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 59,
+        "run": {
+          "id": "m3lrj36m",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/m3lrj36m",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=OaN8Xa6iL6o\u0026t=4m17s"
+              }
+            ]
+          },
+          "comment": "Sub 1:12 coming soonTM ",
+          "status": {
+            "status": "verified",
+            "examiner": "pj0kln48",
+            "verify-date": "2023-01-16T01:54:04Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8r7q7rdj",
+              "uri": "https://www.speedrun.com/api/v1/users/8r7q7rdj"
+            }
+          ],
+          "date": "2023-01-15",
+          "submitted": "2023-01-15T22:03:24Z",
+          "times": {
+            "primary": "PT1H12M29S",
+            "primary_t": 4349,
+            "realtime": "PT1H12M29S",
+            "realtime_t": 4349,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "4p9zjrer",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": null,
+          "values": { "kn00373n": "5lewxwzl", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 60,
+        "run": {
+          "id": "yj8x027m",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/yj8x027m",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1721409644" }]
+          },
+          "comment": "Rest in cyberspace but still got it ^_^ Time to grind for 1:12 when I get back from Japan :)",
+          "status": {
+            "status": "verified",
+            "examiner": "j5wmvowj",
+            "verify-date": "2023-01-29T01:08:23Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "xyr29rmj",
+              "uri": "https://www.speedrun.com/api/v1/users/xyr29rmj"
+            }
+          ],
+          "date": "2023-01-28",
+          "submitted": "2023-01-28T21:58:38Z",
+          "times": {
+            "primary": "PT1H13M47S",
+            "primary_t": 4427,
+            "realtime": "PT1H13M47S",
+            "realtime_t": 4427,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "4p9zjrer",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": null,
+          "values": { "kn00373n": "5lewxwzl", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 61,
+        "run": {
+          "id": "zx8e128m",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zx8e128m",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.youtube.com/watch?v=ioVzllb8oAQ" }]
+          },
+          "comment": "Uploaded to yt just for the mods \u003C3\r\n\r\nMod Comment: ty gg! \u003C3 ",
+          "status": {
+            "status": "verified",
+            "examiner": "5j5wg3zj",
+            "verify-date": "2022-11-26T07:31:27Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "18v55ejl",
+              "uri": "https://www.speedrun.com/api/v1/users/18v55ejl"
+            }
+          ],
+          "date": "2022-11-25",
+          "submitted": "2022-11-26T01:36:49Z",
+          "times": {
+            "primary": "PT1H27M36S",
+            "primary_t": 5256,
+            "realtime": "PT1H27M36S",
+            "realtime_t": 5256,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "o7e2xj9w",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "5lewxwzl", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 62,
+        "run": {
+          "id": "y6ojp36y",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y6ojp36y",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1767213352" }]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "j4q9dqdx",
+            "verify-date": "2023-03-18T14:45:28Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "o8626q3x",
+              "uri": "https://www.speedrun.com/api/v1/users/o8626q3x"
+            }
+          ],
+          "date": "2023-03-16",
+          "submitted": "2023-03-16T23:48:25Z",
+          "times": {
+            "primary": "PT1H31M19S",
+            "primary_t": 5479,
+            "realtime": "PT1H31M19S",
+            "realtime_t": 5479,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "nzelkr6q",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": {
+            "rel": "splits.io",
+            "uri": "https://splits.io/api/v3/runs/ak9n"
+          },
+          "values": { "kn00373n": "5lewxwzl", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 63,
+        "run": {
+          "id": "zpgpdqrz",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zpgpdqrz",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.twitch.tv/videos/1746498046?filter=highlights\u0026sort=time"
+              }
+            ]
+          },
+          "comment": "mod note: sheesh ggs christy, proud to see you get closer and closer to sub 1:30. lowkey might have to come back to any% now",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-02-23T23:27:07Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8w06ne4j",
+              "uri": "https://www.speedrun.com/api/v1/users/8w06ne4j"
+            }
+          ],
+          "date": "2023-02-23",
+          "submitted": "2023-02-23T05:54:16Z",
+          "times": {
+            "primary": "PT1H32M4S",
+            "primary_t": 5524,
+            "realtime": "PT1H32M4S",
+            "realtime_t": 5524,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "o7e2xj9w",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "5lewxwzl", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 64,
+        "run": {
+          "id": "y80v5lwm",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y80v5lwm",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=13M3VvSzgVc\u0026feature=youtu.be"
+              }
+            ]
+          },
+          "comment": "Awa\u0027 An\u0027 Bile Yer Heid, Rhea!",
+          "status": {
+            "status": "verified",
+            "examiner": "pj0kln48",
+            "verify-date": "2023-01-13T08:14:59Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8dw0o2oj",
+              "uri": "https://www.speedrun.com/api/v1/users/8dw0o2oj"
+            }
+          ],
+          "date": "2023-01-11",
+          "submitted": "2023-01-11T10:43:13Z",
+          "times": {
+            "primary": "PT1H32M57S",
+            "primary_t": 5577,
+            "realtime": "PT1H32M57S",
+            "realtime_t": 5577,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "o7e2xj9w",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": { "kn00373n": "5lewxwzl", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 65,
+        "run": {
+          "id": "zg2qlqny",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/zg2qlqny",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": { "links": [{ "uri": "https://youtu.be/hkG_U0ylYMs" }] },
+          "comment": "first run, didnt practice for this so ill take this any% time. i at least had fun tho. \r\n\r\ndont know if there\u0027s any good part of this run lmao (besides prolly first try pinball skip and it being my first time hearing the jp voices for frontiers) like my first ouranos split bodied me hard lmaoo. ill clean up this \u0022route\u0022 just so i can get a feel for any% B)\r\n\r\nMod Note: gg bro! Removed ms from RTA even though u didnt put it in! Here is a way to make ur run better\r\nDONT BE SCUFFED\r\n\r\nalso who is the girl on ur splits? ;)",
+          "status": {
+            "status": "verified",
+            "examiner": "j5wmvowj",
+            "verify-date": "2023-02-07T06:19:04Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8v51o6nj",
+              "uri": "https://www.speedrun.com/api/v1/users/8v51o6nj"
+            }
+          ],
+          "date": "2023-02-06",
+          "submitted": "2023-02-07T03:20:55Z",
+          "times": {
+            "primary": "PT1H34M50S",
+            "primary_t": 5690,
+            "realtime": "PT1H34M50S",
+            "realtime_t": 5690,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "4p9zjrer",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": { "kn00373n": "5lewxwzl", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 66,
+        "run": {
+          "id": "y801jn1m",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/y801jn1m",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1684007230" }]
+          },
+          "comment": "mod note (shovelclaws): fixed ms, submitted as .010, should have been .100\r\n\r\ndouble mod note (josuray): removed ms from rta",
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2023-01-06T09:35:41Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "j5qw1gqj",
+              "uri": "https://www.speedrun.com/api/v1/users/j5qw1gqj"
+            }
+          ],
+          "date": "2022-12-20",
+          "submitted": "2022-12-20T09:51:59Z",
+          "times": {
+            "primary": "PT1H49M12S",
+            "primary_t": 6552,
+            "realtime": "PT1H49M12S",
+            "realtime_t": 6552,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "4p9zjrer",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": null,
+          "values": { "kn00373n": "5lewxwzl", "6njkxopl": "zqo7v721" }
+        }
+      },
+      {
+        "place": 67,
+        "run": {
+          "id": "z0lvo7oz",
+          "weblink": "https://www.speedrun.com/sonicfrontiers/run/z0lvo7oz",
+          "game": "k6qwoez6",
+          "level": null,
+          "category": "9d8n33ld",
+          "videos": {
+            "links": [{ "uri": "https://www.twitch.tv/videos/1660021728" }]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "8v51o6nj",
+            "verify-date": "2022-11-23T01:11:40Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8v5k9w5j",
+              "uri": "https://www.speedrun.com/api/v1/users/8v5k9w5j"
+            }
+          ],
+          "date": "2022-11-22",
+          "submitted": "2022-11-22T19:17:46Z",
+          "times": {
+            "primary": "PT2H11M36S",
+            "primary_t": 7896,
+            "realtime": "PT2H11M36S",
+            "realtime_t": 7896,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "nzelkr6q",
+            "emulated": false,
+            "region": "e6lxy1dz"
+          },
+          "splits": {
+            "rel": "splits.io",
+            "uri": "https://splits.io/api/v3/runs/a5y1"
+          },
+          "values": { "kn00373n": "5lewxwzl", "6njkxopl": "zqo7v721" }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/k6qwoez6"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/9d8n33ld"
+      }
+    ]
+  }
+}

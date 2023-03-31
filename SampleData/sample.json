@@ -1,0 +1,2516 @@
+{
+  "user": "GoobIsGabe",
+  "run": {
+    "game": "Sonic Frontiers",
+    "splits": [
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 49730.448000000004,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [49730, 53922, 47221],
+        "bestPossible": 47061.289000000004,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "47061.289",
+          "bestPossibleTime": "47061.289",
+          "averageTime": "50291",
+          "alternative": [],
+          "time": "49730.448",
+          "stdDev": "2764.2830294068417"
+        },
+        "total": {
+          "bestAchievedTime": "47221",
+          "bestPossibleTime": "47061.289",
+          "averageTime": "50291",
+          "alternative": [],
+          "time": "49730.448",
+          "stdDev": "2764.2830294068417"
+        },
+        "top10Total": null,
+        "attemptsFinished": 3,
+        "top10Single": null,
+        "name": "-1-1",
+        "comparisons": {
+          "Personal Best": 49730.448000000004,
+          "Worst Segments": 53922.609000000004,
+          "Best Segments": 47061.289000000004,
+          "Best Split Times": 47061.289000000004,
+          "Average Segments": 50479.8269,
+          "Latest Run": 49730.448000000004,
+          "None": null,
+          "Median Segments": 49730.448000000004,
+          "Balanced PB": 48940.7756
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [49730, 53922, 47221],
+        "attemptsStarted": 305,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 116758.73400000001,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [67028, 65246, 64105],
+        "bestPossible": 62744.913,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "62744.913",
+          "bestPossibleTime": "62744.913",
+          "averageTime": "65459.666666666664",
+          "alternative": [],
+          "time": "67028",
+          "stdDev": "1202.8361853922124"
+        },
+        "total": {
+          "bestAchievedTime": "111326",
+          "bestPossibleTime": "109805",
+          "averageTime": "115750",
+          "alternative": [],
+          "time": "116758.734",
+          "stdDev": "47951.493660448585"
+        },
+        "top10Total": null,
+        "attemptsFinished": 97,
+        "bestPossibleTimeAtSplit": "3645327-18753.583899999998",
+        "top10Single": null,
+        "name": "-Ninja",
+        "comparisons": {
+          "Personal Best": 116758.73400000001,
+          "Worst Segments": 128582.01000000001,
+          "Best Segments": 109806.202,
+          "Best Split Times": 111327.441,
+          "Average Segments": 117052.90340000001,
+          "Latest Run": 116758.73400000001,
+          "None": null,
+          "Median Segments": 114977.217,
+          "Balanced PB": 114227.727
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [
+          116758, 119168, 111326, 66129, 70116, 70430, 65325, 71523, 66885,
+          63485, 63038, 66382, 68591, 65144, 69034, 64947, 65316, 70830, 64339,
+          65032
+        ],
+        "attemptsStarted": 3,
+        "splitTime": 91051.4161
+      },
+      {
+        "average": 19448.65,
+        "top90Single": 21027,
+        "pbSplitTime": 136243.99300000002,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          19485, 18256, 19731, 19478, 18397, 21027, 21934, 18861, 20100, 19447,
+          19887, 18008, 18271, 18611, 19143, 20255, 19172, 20567, 19728, 18615
+        ],
+        "bestPossible": 18008.36,
+        "predictedTotalTime": 89087.775,
+        "consistency": 0,
+        "top90Total": 90002,
+        "single": {
+          "bestAchievedTime": "18008.36",
+          "bestPossibleTime": "18008.36",
+          "averageTime": "20258.041666666668",
+          "alternative": [],
+          "time": "19485",
+          "stdDev": "956.497933081332"
+        },
+        "total": {
+          "bestAchievedTime": "131057",
+          "bestPossibleTime": "127813",
+          "averageTime": "136008",
+          "alternative": [],
+          "time": "136243.993",
+          "stdDev": "47967.662390710335"
+        },
+        "top10Total": 137424,
+        "attemptsFinished": 96,
+        "top10Single": 18271,
+        "name": "-Twist a doohickey",
+        "comparisons": {
+          "Personal Best": 136243.99300000002,
+          "Worst Segments": 159563.269,
+          "Best Segments": 127814.562,
+          "Best Split Times": 131058.747,
+          "Average Segments": 136429.29020000002,
+          "Latest Run": 136243.992,
+          "None": null,
+          "Median Segments": 134462.475,
+          "Balanced PB": 133691.67200000002
+        },
+        "predictedSingleTime": 19310.325,
+        "recentCompletionsTotal": [
+          136243, 137424, 131057, 85607, 88513, 86352, 93457, 85746, 83585,
+          82485, 86269, 86599, 83415, 87645, 84090, 85571, 90002, 84906, 84760,
+          84585
+        ],
+        "attemptsStarted": 97,
+        "splitTime": null
+      },
+      {
+        "average": 153711.4,
+        "top90Single": 179964,
+        "pbSplitTime": 277796.737,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          141552, 140984, 153594, 151649, 154531, 142157, 139501, 155261,
+          149170, 150126, 144235, 174001, 144820, 142820, 149698, 179964,
+          144072, 177091, 144301, 194701
+        ],
+        "bestPossible": 139501.434,
+        "predictedTotalTime": 242537.675,
+        "consistency": 0,
+        "top90Total": 280348,
+        "single": {
+          "bestAchievedTime": "139501.434",
+          "bestPossibleTime": "139501.434",
+          "averageTime": "159227.1607142857",
+          "alternative": [],
+          "time": "141553",
+          "stdDev": "13915.211780094662"
+        },
+        "total": {
+          "bestAchievedTime": "277795",
+          "bestPossibleTime": "267314",
+          "averageTime": "295235",
+          "alternative": [],
+          "time": "277796.737",
+          "stdDev": "81069.4782087272"
+        },
+        "top10Total": 228944,
+        "attemptsFinished": 85,
+        "top10Single": 141552,
+        "name": "-Heck Method to HSP",
+        "comparisons": {
+          "Personal Best": 277796.737,
+          "Worst Segments": 521870.102,
+          "Best Segments": 267315.996,
+          "Best Split Times": 277796.735,
+          "Average Segments": 283199.8591,
+          "Latest Run": 277796.735,
+          "None": null,
+          "Median Segments": 276015.218,
+          "Balanced PB": 281697.8812
+        },
+        "predictedSingleTime": 149265.7,
+        "recentCompletionsTotal": [
+          277795, 278408, 284651, 237256, 243044, 235614, 223086, 241530,
+          235769, 237771, 229806, 258761, 229405, 228944, 239689, 268002,
+          228246, 266742, 231520, 280348
+        ],
+        "attemptsStarted": 96,
+        "splitTime": null
+      },
+      {
+        "average": 16853.65,
+        "top90Single": 25067,
+        "pbSplitTime": 289058.597,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          11261, 25067, 18551, 11634, 14490, 14704, 24614, 22011, 28060, 11569,
+          11199, 15977, 14425, 15806, 17871, 14955, 14053, 15193, 15684, 19949
+        ],
+        "bestPossible": 11199.462000000001,
+        "predictedTotalTime": 261988.125,
+        "consistency": 0,
+        "top90Total": 303202,
+        "single": {
+          "bestAchievedTime": "11199.462",
+          "bestPossibleTime": "11199.462",
+          "averageTime": "17142.95890410959",
+          "alternative": [],
+          "time": "11262",
+          "stdDev": "3811.7573061364346"
+        },
+        "total": {
+          "bestAchievedTime": "289056",
+          "bestPossibleTime": "278513",
+          "averageTime": "312377",
+          "alternative": [],
+          "time": "289058.597",
+          "stdDev": "139227.10282749776"
+        },
+        "top10Total": 248890,
+        "attemptsFinished": 88,
+        "top10Single": 11569,
+        "name": "-Climb that Chad",
+        "comparisons": {
+          "Personal Best": 289058.597,
+          "Worst Segments": 574900.611,
+          "Best Segments": 278515.45800000004,
+          "Best Split Times": 289058.59500000003,
+          "Average Segments": 300159.7612,
+          "Latest Run": 289058.59500000003,
+          "None": null,
+          "Median Segments": 294567.155,
+          "Balanced PB": 296448.1068
+        },
+        "predictedSingleTime": 15904.325,
+        "recentCompletionsTotal": [
+          289056, 303475, 303202, 248890, 257534, 250318, 260383, 259782,
+          257866, 240974, 250888, 283979, 242671, 282548, 249391, 295303,
+          264572, 284153, 251159, 252701
+        ],
+        "attemptsStarted": 85,
+        "splitTime": null
+      },
+      {
+        "average": 96986.28571428571,
+        "top90Single": null,
+        "pbSplitTime": 382521.525,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          93462, 105728, 96295, 98900, 90047, 107182, 87290
+        ],
+        "bestPossible": 87290.51000000001,
+        "predictedTotalTime": 359020.85714285716,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "87290.51",
+          "bestPossibleTime": "87290.51",
+          "averageTime": "96986.28571428571",
+          "alternative": [],
+          "time": "93463",
+          "stdDev": "6960.116680349665"
+        },
+        "total": {
+          "bestAchievedTime": "382518",
+          "bestPossibleTime": "365803",
+          "averageTime": "409363",
+          "alternative": [],
+          "time": "382521.525",
+          "stdDev": "46170.01856956834"
+        },
+        "top10Total": null,
+        "attemptsFinished": 7,
+        "top10Single": null,
+        "name": "{Kronos Island}Giganto",
+        "comparisons": {
+          "Personal Best": 382521.525,
+          "Worst Segments": 682083.005,
+          "Best Segments": 365805.968,
+          "Best Split Times": 382521.52300000004,
+          "Average Segments": 397708.8975,
+          "Latest Run": 382521.52300000004,
+          "None": null,
+          "Median Segments": 390862.492,
+          "Balanced PB": 390053.93950000004
+        },
+        "predictedSingleTime": 92138.14285714286,
+        "recentCompletionsTotal": [
+          382518, 409203, 399497, 347790, 347581, 357500, 347673
+        ],
+        "attemptsStarted": 88,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 466799.367,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [84277, 84231, 77323, 84137, 151276],
+        "bestPossible": 74734.70300000001,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "74734.703",
+          "bestPossibleTime": "74734.703",
+          "averageTime": "96248.8",
+          "alternative": [],
+          "time": "84278",
+          "stdDev": "27642.814099870513"
+        },
+        "total": {
+          "bestAchievedTime": "466795",
+          "bestPossibleTime": "440537",
+          "averageTime": "505611",
+          "alternative": [],
+          "time": "466799.36699999997",
+          "stdDev": "177808.17090979175"
+        },
+        "top10Total": null,
+        "attemptsFinished": 56,
+        "top10Single": null,
+        "name": "-2-2",
+        "comparisons": {
+          "Personal Best": 466799.367,
+          "Worst Segments": 1052253.2,
+          "Best Segments": 440540.67100000003,
+          "Best Split Times": 466799.36500000005,
+          "Average Segments": 486435.72290000005,
+          "Latest Run": 466799.36500000005,
+          "None": null,
+          "Median Segments": 475140.33400000003,
+          "Balanced PB": 470783.0158
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [
+          466795, 483728, 425113, 431718, 508776, 322313, 343595, 363378,
+          317405, 360585, 334472, 372307, 377840, 411887, 330168, 367041,
+          341385, 351917, 346393, 332702
+        ],
+        "attemptsStarted": 7,
+        "splitTime": null
+      },
+      {
+        "average": 27808.9,
+        "top90Single": 30213,
+        "pbSplitTime": 492536.174,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          25736, 26325, 26865, 29720, 25472, 27423, 27606, 27642, 26523, 27498,
+          28702, 29501, 30213, 26682, 27481, 31956, 26707, 26906, 28312, 28908
+        ],
+        "bestPossible": 25472.332000000002,
+        "predictedTotalTime": 387162.65,
+        "consistency": 0,
+        "top90Total": 492531,
+        "single": {
+          "bestAchievedTime": "25472.332",
+          "bestPossibleTime": "25472.332",
+          "averageTime": "30088.134615384617",
+          "alternative": [],
+          "time": "25737",
+          "stdDev": "3378.2976007177667"
+        },
+        "total": {
+          "bestAchievedTime": "492531",
+          "bestPossibleTime": "466009",
+          "averageTime": "535699",
+          "alternative": [],
+          "time": "492536.174",
+          "stdDev": "184087.99758723882"
+        },
+        "top10Total": 359409,
+        "attemptsFinished": 53,
+        "top10Single": 26325,
+        "name": "-Chaos Emerald",
+        "comparisons": {
+          "Personal Best": 492536.174,
+          "Worst Segments": 1150931.074,
+          "Best Segments": 466013.003,
+          "Best Split Times": 492536.17100000003,
+          "Average Segments": 513314.18220000004,
+          "Latest Run": 492536.17100000003,
+          "None": null,
+          "Median Segments": 500877.14,
+          "Balanced PB": 497633.1519
+        },
+        "predictedSingleTime": 27615.95,
+        "recentCompletionsTotal": [
+          492531, 510053, 451978, 461438, 347785, 371018, 390984, 345047,
+          387108, 361970, 401009, 407341, 360381, 368067, 379398, 378349,
+          359409, 363120, 379273, 403267
+        ],
+        "attemptsStarted": 56,
+        "splitTime": null
+      },
+      {
+        "average": 36527.45,
+        "top90Single": 40174,
+        "pbSplitTime": 529548.145,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          37011, 38656, 34872, 36252, 33722, 36390, 37380, 34436, 36266, 35055,
+          37410, 39842, 34100, 33949, 40174, 35035, 40436, 35606, 37436, 36521
+        ],
+        "bestPossible": 25278.021,
+        "predictedTotalTime": 422943.875,
+        "consistency": 0,
+        "top90Total": 529542,
+        "single": {
+          "bestAchievedTime": "25278.021",
+          "bestPossibleTime": "25278.021",
+          "averageTime": "36277.057692307695",
+          "alternative": [],
+          "time": "37012",
+          "stdDev": "3503.819548400945"
+        },
+        "total": {
+          "bestAchievedTime": "529542",
+          "bestPossibleTime": "491287",
+          "averageTime": "571976",
+          "alternative": [],
+          "time": "529548.145",
+          "stdDev": "183798.1182958001"
+        },
+        "top10Total": 394481,
+        "attemptsFinished": 52,
+        "top10Single": 34100,
+        "name": "-Wyvern Escape Start",
+        "comparisons": {
+          "Personal Best": 529548.145,
+          "Worst Segments": 1201642.774,
+          "Best Segments": 491291.02400000003,
+          "Best Split Times": 529548.1410000001,
+          "Average Segments": 549837.77,
+          "Latest Run": 529548.1410000001,
+          "None": null,
+          "Median Segments": 537889.11,
+          "Balanced PB": 532915.5166
+        },
+        "predictedSingleTime": 36389.725,
+        "recentCompletionsTotal": [
+          529542, 548709, 486850, 497690, 381507, 407408, 428364, 379483,
+          423374, 397025, 438419, 447183, 394481, 402016, 419572, 413384,
+          399845, 398726, 416709, 439788
+        ],
+        "attemptsStarted": 53,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 618435.783,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [88887],
+        "bestPossible": 87330.656,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "87330.656",
+          "bestPossibleTime": "87330.656",
+          "averageTime": "88887",
+          "alternative": [],
+          "time": "88887",
+          "stdDev": 0
+        },
+        "total": {
+          "bestAchievedTime": "618429",
+          "bestPossibleTime": "578617",
+          "averageTime": "660863",
+          "alternative": [],
+          "time": "618435.783",
+          "stdDev": 42434
+        },
+        "top10Total": null,
+        "attemptsFinished": 1,
+        "top10Single": null,
+        "name": "-RUN!",
+        "comparisons": {
+          "Personal Best": 618435.783,
+          "Worst Segments": 1352728.838,
+          "Best Segments": 578621.68,
+          "Best Split Times": 618435.779,
+          "Average Segments": 638725.408,
+          "Latest Run": 618435.779,
+          "None": null,
+          "Median Segments": 626776.748,
+          "Balanced PB": 621803.1546
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [618429],
+        "attemptsStarted": 52,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 642943.638,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [24507],
+        "bestPossible": 11837.505000000001,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "11837.505",
+          "bestPossibleTime": "11837.505",
+          "averageTime": "24507",
+          "alternative": [],
+          "time": "24508",
+          "stdDev": 0
+        },
+        "total": {
+          "bestAchievedTime": "642936",
+          "bestPossibleTime": "590454",
+          "averageTime": "685370",
+          "alternative": [],
+          "time": "642943.638",
+          "stdDev": "272314.2021844129"
+        },
+        "top10Total": null,
+        "attemptsFinished": 39,
+        "top10Single": null,
+        "name": "-Touch Grass",
+        "comparisons": {
+          "Personal Best": 642943.638,
+          "Worst Segments": 1461957.058,
+          "Best Segments": 590459.185,
+          "Best Split Times": 642943.6329000001,
+          "Average Segments": 660258.8536,
+          "Latest Run": 642943.6329000001,
+          "None": null,
+          "Median Segments": 651284.6019,
+          "Balanced PB": 636776.6389
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [
+          642936, 510985, 519779, 395031, 430210, 438358, 463165, 462403,
+          414883, 414120, 448235, 411682, 444842, 464299, 458034, 442131,
+          417183, 446158, 425081, 454713
+        ],
+        "attemptsStarted": 1,
+        "splitTime": null
+      },
+      {
+        "average": 28674.05,
+        "top90Single": 29116,
+        "pbSplitTime": 662985.8799,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          20042, 19142, 19823, 26801, 18646, 20070, 19166, 28859, 19392, 29116,
+          19629, 31382, 23963, 22051, 20266, 18371, 150533, 26170, 20210, 19849
+        ],
+        "bestPossible": 18371.887000000002,
+        "predictedTotalTime": 467718.15,
+        "consistency": 0,
+        "top90Total": 596691,
+        "single": {
+          "bestAchievedTime": "18371.887",
+          "bestPossibleTime": "18371.887",
+          "averageTime": "30384.942857142858",
+          "alternative": [],
+          "time": "20042",
+          "stdDev": "15484.462937946588"
+        },
+        "total": {
+          "bestAchievedTime": "662978",
+          "bestPossibleTime": "608825",
+          "averageTime": "715754",
+          "alternative": [],
+          "time": "662985.8799",
+          "stdDev": "398186.1674568"
+        },
+        "top10Total": 431311,
+        "attemptsFinished": 46,
+        "top10Single": 18646,
+        "name": "-Wyvern Climb",
+        "comparisons": {
+          "Personal Best": 662985.8799,
+          "Worst Segments": 1612490.1090000002,
+          "Best Segments": 608831.072,
+          "Best Split Times": 662985.8749,
+          "Average Segments": 681626.1457,
+          "Latest Run": 662985.8749,
+          "None": null,
+          "Median Segments": 671326.8439,
+          "Balanced PB": 656806.7941
+        },
+        "predictedSingleTime": 24261.525,
+        "recentCompletionsTotal": [
+          662978, 530127, 414854, 457011, 457004, 483235, 481569, 443742,
+          433512, 477351, 431311, 476224, 488262, 480085, 462397, 435554,
+          596691, 451251, 474923, 430425
+        ],
+        "attemptsStarted": 39,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 753113.566,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [90127],
+        "bestPossible": 88000,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "88000",
+          "bestPossibleTime": "88000",
+          "averageTime": "90127",
+          "alternative": [],
+          "time": "90128",
+          "stdDev": 0
+        },
+        "total": {
+          "bestAchievedTime": "753105",
+          "bestPossibleTime": "696825",
+          "averageTime": "805881",
+          "alternative": [],
+          "time": "753113.566",
+          "stdDev": 52776
+        },
+        "top10Total": null,
+        "attemptsFinished": 1,
+        "top10Single": null,
+        "name": "-Why Vern Run",
+        "comparisons": {
+          "Personal Best": 753113.566,
+          "Worst Segments": 1703521.263,
+          "Best Segments": 696831.072,
+          "Best Split Times": 753113.5599,
+          "Average Segments": 771753.8307,
+          "Latest Run": 753113.5599,
+          "None": null,
+          "Median Segments": 761454.5289,
+          "Balanced PB": 746934.4791
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [753105],
+        "attemptsStarted": 46,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 943280.4600000001,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [190166],
+        "bestPossible": 189007.44100000002,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "189007.441",
+          "bestPossibleTime": "189007.441",
+          "averageTime": "190166",
+          "alternative": [],
+          "time": "190167",
+          "stdDev": 0
+        },
+        "total": {
+          "bestAchievedTime": "943271",
+          "bestPossibleTime": "885832",
+          "averageTime": "996047",
+          "alternative": [],
+          "time": "943280.46",
+          "stdDev": "357801.1155560604"
+        },
+        "top10Total": null,
+        "attemptsFinished": 31,
+        "top10Single": null,
+        "name": "{Ares Island} Wyvern Fight",
+        "comparisons": {
+          "Personal Best": 943280.4600000001,
+          "Worst Segments": 2623964.409,
+          "Best Segments": 885838.513,
+          "Best Split Times": 943280.4539000001,
+          "Average Segments": 979653.1781,
+          "Latest Run": 943280.4539000001,
+          "None": null,
+          "Median Segments": 951621.4229,
+          "Balanced PB": 940261.0662
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [
+          943271, 724672, 609773, 649258, 659093, 674610, 690207, 622519,
+          668368, 1396667, 680956, 657395, 654962, 644680, 674010, 640480,
+          988604, 594654, 559352, 576759
+        ],
+        "attemptsStarted": 1,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 1092009.51,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [148729],
+        "bestPossible": 126466.28600000001,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "126466.286",
+          "bestPossibleTime": "126466.286",
+          "averageTime": "148729",
+          "alternative": [],
+          "time": "148729",
+          "stdDev": 0
+        },
+        "total": {
+          "bestAchievedTime": "1092000",
+          "bestPossibleTime": "1012298",
+          "averageTime": "1144776",
+          "alternative": [],
+          "time": "1092009.51",
+          "stdDev": 52776
+        },
+        "top10Total": null,
+        "attemptsFinished": 1,
+        "top10Single": null,
+        "name": "-3-1",
+        "comparisons": {
+          "Personal Best": 1092009.51,
+          "Worst Segments": 2803122.958,
+          "Best Segments": 1012304.799,
+          "Best Split Times": 1092009.5039000001,
+          "Average Segments": 1128382.2281,
+          "Latest Run": 1092009.5039000001,
+          "None": null,
+          "Median Segments": 1100350.4729000002,
+          "Balanced PB": 1088990.1162
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [1092000],
+        "attemptsStarted": 31,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 1211314.0450000002,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [119304],
+        "bestPossible": 116329.436,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "116329.436",
+          "bestPossibleTime": "116329.436",
+          "averageTime": "119304",
+          "alternative": [],
+          "time": "119305",
+          "stdDev": 0
+        },
+        "total": {
+          "bestAchievedTime": "1211304",
+          "bestPossibleTime": "1128627",
+          "averageTime": "1264080",
+          "alternative": [],
+          "time": "1211314.045",
+          "stdDev": "476822.13081987784"
+        },
+        "top10Total": null,
+        "attemptsFinished": 23,
+        "top10Single": null,
+        "name": "-3-2",
+        "comparisons": {
+          "Personal Best": 1211314.0450000002,
+          "Worst Segments": 2987097.9820000003,
+          "Best Segments": 1128634.235,
+          "Best Split Times": 1211314.0379,
+          "Average Segments": 1257175.5925,
+          "Latest Run": 1211314.0379,
+          "None": null,
+          "Median Segments": 1219655.0069000002,
+          "Balanced PB": 1210655.6461
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [
+          1211304, 871546, 726102, 784745, 778203, 806177, 740646, 789672,
+          802636, 821009, 771141, 857985, 781648, 1157903, 712597, 685911,
+          674298, 730354, 729228, 789779
+        ],
+        "attemptsStarted": 1,
+        "splitTime": null
+      },
+      {
+        "average": 58887.45,
+        "top90Single": 79800,
+        "pbSplitTime": 1252467.942,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          41153, 40081, 40983, 60119, 52859, 46270, 53862, 41987, 41372, 49513,
+          71354, 79800, 57197, 96740, 61331, 51409, 51841, 60567, 118577, 60734
+        ],
+        "bestPossible": 40081.69,
+        "predictedTotalTime": 850546.825,
+        "consistency": 0,
+        "top90Total": 911627,
+        "single": {
+          "bestAchievedTime": "40081.69",
+          "bestPossibleTime": "40081.69",
+          "averageTime": "58463.69565217391",
+          "alternative": [],
+          "time": "41153",
+          "stdDev": "13714.02195034607"
+        },
+        "total": {
+          "bestAchievedTime": "1252457",
+          "bestPossibleTime": "1168708",
+          "averageTime": "1322543",
+          "alternative": [],
+          "time": "1252467.942",
+          "stdDev": "478566.35327702994"
+        },
+        "top10Total": 726139,
+        "attemptsFinished": 24,
+        "top10Single": 40983,
+        "name": "-Red Emerald",
+        "comparisons": {
+          "Personal Best": 1252467.942,
+          "Worst Segments": 3105675.759,
+          "Best Segments": 1168715.925,
+          "Best Split Times": 1252467.9349,
+          "Average Segments": 1303734.2683,
+          "Latest Run": 1252467.9349,
+          "None": null,
+          "Median Segments": 1260808.9039,
+          "Balanced PB": 1256728.7071
+        },
+        "predictedSingleTime": 55148.225,
+        "recentCompletionsTotal": [
+          1252457, 911627, 767085, 844864, 831062, 852447, 794508, 831659,
+          844008, 870522, 842495, 937785, 838845, 1254643, 773928, 737320,
+          726139, 790921, 847805, 850513
+        ],
+        "attemptsStarted": 23,
+        "splitTime": null
+      },
+      {
+        "average": 60776.25,
+        "top90Single": 77234,
+        "pbSplitTime": 1304217.855,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          51749, 74903, 53421, 56321, 57331, 52604, 55725, 62775, 52853, 60023,
+          59709, 51769, 67808, 86667, 77234, 53642, 52192, 52349, 63523, 72927
+        ],
+        "bestPossible": 51749.912000000004,
+        "predictedTotalTime": 909600.45,
+        "consistency": 0,
+        "top90Total": 986530,
+        "single": {
+          "bestAchievedTime": "51749.912",
+          "bestPossibleTime": "51749.912",
+          "averageTime": "62408.782608695656",
+          "alternative": [],
+          "time": "51750",
+          "stdDev": "11412.034109568653"
+        },
+        "total": {
+          "bestAchievedTime": "1304206",
+          "bestPossibleTime": "1220457",
+          "averageTime": "1384951",
+          "alternative": [],
+          "time": "1304217.855",
+          "stdDev": "478511.4105938559"
+        },
+        "top10Total": 778331,
+        "attemptsFinished": 23,
+        "top10Single": 52192,
+        "name": "-Yo Tails",
+        "comparisons": {
+          "Personal Best": 1304217.855,
+          "Worst Segments": 3198937.575,
+          "Best Segments": 1220465.837,
+          "Best Split Times": 1304217.8469,
+          "Average Segments": 1362424.0211,
+          "Latest Run": 1304217.8469,
+          "None": null,
+          "Median Segments": 1312558.8159,
+          "Balanced PB": 1311173.1283
+        },
+        "predictedSingleTime": 58250.625,
+        "recentCompletionsTotal": [
+          1304206, 986530, 820506, 901185, 888393, 905051, 850233, 894434,
+          896861, 930545, 902204, 989554, 906653, 1341310, 851162, 790962,
+          778331, 843270, 911328, 923440
+        ],
+        "attemptsStarted": 24,
+        "splitTime": null
+      },
+      {
+        "average": 152937.2,
+        "top90Single": 193150,
+        "pbSplitTime": 1431460.6970000002,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          127242, 152721, 119443, 146982, 136652, 162063, 178725, 190803,
+          120746, 167333, 141671, 155100, 127008, 158438, 155281, 123345,
+          132443, 232296, 137302, 193150
+        ],
+        "bestPossible": 119443.743,
+        "predictedTotalTime": 1075429.55,
+        "consistency": 0,
+        "top90Total": 914307,
+        "single": {
+          "bestAchievedTime": "119443.743",
+          "bestPossibleTime": "119443.743",
+          "averageTime": "153702.65217391305",
+          "alternative": [],
+          "time": "127243",
+          "stdDev": "26331.2527428805"
+        },
+        "total": {
+          "bestAchievedTime": "1431448",
+          "bestPossibleTime": "1339900",
+          "averageTime": "1538653",
+          "alternative": [],
+          "time": "1431460.697",
+          "stdDev": "691335.6898593052"
+        },
+        "top10Total": 1025045,
+        "attemptsFinished": 29,
+        "top10Single": 123345,
+        "name": "-Shield Escape",
+        "comparisons": {
+          "Personal Best": 1431460.6970000002,
+          "Worst Segments": 3474745.9990000003,
+          "Best Segments": 1339909.58,
+          "Best Split Times": 1431460.6889000002,
+          "Average Segments": 1504465.6406,
+          "Latest Run": 1431460.6889000002,
+          "None": null,
+          "Median Segments": 1439801.6579,
+          "Balanced PB": 1452965.3361
+        },
+        "predictedSingleTime": 147304.1,
+        "recentCompletionsTotal": [
+          1431448, 1139251, 939949, 1048167, 1025045, 1067114, 1028958, 1085237,
+          1017607, 1097878, 1043875, 1144654, 1033661, 1499748, 1006443, 914307,
+          910774, 1075566, 1048630, 1116590
+        ],
+        "attemptsStarted": 23,
+        "splitTime": null
+      },
+      {
+        "average": 59951.2,
+        "top90Single": 62364,
+        "pbSplitTime": 1492239.404,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          60778, 58166, 58510, 57853, 58007, 60227, 59554, 59639, 62364, 58521,
+          57797, 60301, 59963, 67978, 58595, 59744, 59373, 60053, 60660, 60941
+        ],
+        "bestPossible": 57797.391,
+        "predictedTotalTime": 1132177.825,
+        "consistency": 0,
+        "top90Total": 974051,
+        "single": {
+          "bestAchievedTime": "57797.391",
+          "bestPossibleTime": "57797.391",
+          "averageTime": "60202.608695652176",
+          "alternative": [],
+          "time": "60779",
+          "stdDev": "1559.4434283413718"
+        },
+        "total": {
+          "bestAchievedTime": "1492226",
+          "bestPossibleTime": "1397697",
+          "averageTime": "1598855",
+          "alternative": [],
+          "time": "1492239.404",
+          "stdDev": "481653.00463011477"
+        },
+        "top10Total": 1083052,
+        "attemptsFinished": 23,
+        "top10Single": 58007,
+        "name": "-3-5",
+        "comparisons": {
+          "Personal Best": 1492239.404,
+          "Worst Segments": 3542724.197,
+          "Best Segments": 1397706.9710000001,
+          "Best Split Times": 1492239.3959000001,
+          "Average Segments": 1563750.5355,
+          "Latest Run": 1492239.3959000001,
+          "None": null,
+          "Median Segments": 1500580.3649000002,
+          "Balanced PB": 1511526.8308
+        },
+        "predictedSingleTime": 59752.6,
+        "recentCompletionsTotal": [
+          1492226, 1197417, 998459, 1106020, 1083052, 1127341, 1088512, 1144876,
+          1079971, 1156399, 1101672, 1204955, 1093624, 1567726, 1065038, 974051,
+          970147, 1108683, 1177250, 1121414
+        ],
+        "attemptsStarted": 29,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 1603449.277,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [111209],
+        "bestPossible": 106840.068,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "106840.068",
+          "bestPossibleTime": "106840.068",
+          "averageTime": "111209",
+          "alternative": [],
+          "time": "111210",
+          "stdDev": 0
+        },
+        "total": {
+          "bestAchievedTime": "1603435",
+          "bestPossibleTime": "1504537",
+          "averageTime": "1710064",
+          "alternative": [],
+          "time": "1603449.277",
+          "stdDev": 106629
+        },
+        "top10Total": null,
+        "attemptsFinished": 1,
+        "top10Single": null,
+        "name": "-Hacking",
+        "comparisons": {
+          "Personal Best": 1603449.277,
+          "Worst Segments": 3671162.149,
+          "Best Segments": 1504547.039,
+          "Best Split Times": 1603449.2679,
+          "Average Segments": 1674960.4075,
+          "Latest Run": 1603449.2679,
+          "None": null,
+          "Median Segments": 1611790.2369000001,
+          "Balanced PB": 1622736.7028
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [1603435],
+        "attemptsStarted": 23,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 1689139.1630000002,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [85689],
+        "bestPossible": 81654.265,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "81654.265",
+          "bestPossibleTime": "81654.265",
+          "averageTime": "85689",
+          "alternative": [],
+          "time": "85690",
+          "stdDev": 0
+        },
+        "total": {
+          "bestAchievedTime": "1689124",
+          "bestPossibleTime": "1586191",
+          "averageTime": "1795753",
+          "alternative": [],
+          "time": "1689139.163",
+          "stdDev": "581653.7728988971"
+        },
+        "top10Total": null,
+        "attemptsFinished": 23,
+        "top10Single": null,
+        "name": "-White Emerald",
+        "comparisons": {
+          "Personal Best": 1689139.1630000002,
+          "Worst Segments": 3837591.416,
+          "Best Segments": 1586201.304,
+          "Best Split Times": 1689139.1539,
+          "Average Segments": 1768488.0837,
+          "Latest Run": 1689139.1539,
+          "None": null,
+          "Median Segments": 1697480.1229,
+          "Balanced PB": 1709805.8997000002
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [
+          1689124, 1307942, 1099411, 1193998, 1165045, 1212847, 1175779,
+          1234068, 1168000, 1246517, 1189494, 1297999, 1180445, 1734155,
+          1173771, 1055705, 1056560, 1216044, 1280122, 1204392
+        ],
+        "attemptsStarted": 1,
+        "splitTime": null
+      },
+      {
+        "average": 96411.35,
+        "top90Single": 91812,
+        "pbSplitTime": 1775341.1870000002,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          86202, 83541, 81276, 104978, 82767, 84531, 96385, 83923, 107345,
+          78951, 81613, 91320, 84546, 161462, 89441, 90357, 91812, 113059,
+          112385, 122333
+        ],
+        "bestPossible": 78951.581,
+        "predictedTotalTime": 1307913.625,
+        "consistency": 0,
+        "top90Total": 1775326,
+        "single": {
+          "bestAchievedTime": "78951.581",
+          "bestPossibleTime": "78951.581",
+          "averageTime": "96656.82608695653",
+          "alternative": [],
+          "time": "86202",
+          "stdDev": "12189.136070617284"
+        },
+        "total": {
+          "bestAchievedTime": "1775326",
+          "bestPossibleTime": "1665142",
+          "averageTime": "1892409",
+          "alternative": [],
+          "time": "1775341.187",
+          "stdDev": "584272.4229251879"
+        },
+        "top10Total": 1180687,
+        "attemptsFinished": 23,
+        "top10Single": 112385,
+        "name": "-Bolts",
+        "comparisons": {
+          "Personal Best": 1775341.1870000002,
+          "Worst Segments": 3999053.449,
+          "Best Segments": 1665152.885,
+          "Best Split Times": 1775341.1769,
+          "Average Segments": 1856491.0527000001,
+          "Latest Run": 1775341.1769,
+          "None": null,
+          "Median Segments": 1783682.1459000001,
+          "Balanced PB": 1794088.8513
+        },
+        "predictedSingleTime": 89012.175,
+        "recentCompletionsTotal": [
+          1775326, 1391483, 1180687, 1298976, 1247812, 1297378, 1272164,
+          1317991, 1275345, 1325468, 1271107, 1389319, 1264991, 1895617,
+          1263212, 1146062, 1148372, 1329103, 1392507, 1326725
+        ],
+        "attemptsStarted": 23,
+        "splitTime": null
+      },
+      {
+        "average": 85674,
+        "top90Single": 85349,
+        "pbSplitTime": 1846916.1630000002,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          71574, 81161, 85349, 84721, 94108, 81688, 78427, 79107, 77635, 113238,
+          83532, 84405, 84798, 146783, 73588, 82047, 78928, 73925, 79894, 78572
+        ],
+        "bestPossible": 71574.97600000001,
+        "predictedTotalTime": 1390397.625,
+        "consistency": 0,
+        "top90Total": 1846900,
+        "single": {
+          "bestAchievedTime": "71574.976",
+          "bestPossibleTime": "71574.976",
+          "averageTime": "85545.21739130435",
+          "alternative": [],
+          "time": "71575",
+          "stdDev": "8735.030840599538"
+        },
+        "total": {
+          "bestAchievedTime": "1846900",
+          "bestPossibleTime": "1736716",
+          "averageTime": "1977954",
+          "alternative": [],
+          "time": "1846916.163",
+          "stdDev": "586771.9886254981"
+        },
+        "top10Total": 1266036,
+        "attemptsFinished": 23,
+        "top10Single": 71574,
+        "name": "-Yellow Emerald",
+        "comparisons": {
+          "Personal Best": 1846916.1630000002,
+          "Worst Segments": 4145837.1210000003,
+          "Best Segments": 1736727.861,
+          "Best Split Times": 1846916.1529,
+          "Average Segments": 1938040.513,
+          "Latest Run": 1846916.1529,
+          "None": null,
+          "Median Segments": 1855257.1219000001,
+          "Balanced PB": 1874209.6936
+        },
+        "predictedSingleTime": 82301,
+        "recentCompletionsTotal": [
+          1846900, 1472644, 1266036, 1383697, 1341920, 1379066, 1350591,
+          1397098, 1352980, 1438706, 1354639, 1473724, 1349789, 2042400,
+          1336800, 1228109, 1227300, 1403028, 1472401, 1405297
+        ],
+        "attemptsStarted": 23,
+        "splitTime": null
+      },
+      {
+        "average": 106642.8,
+        "top90Single": 98373,
+        "pbSplitTime": 1945784.8630000001,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          98868, 102320, 93599, 97467, 98373, 101074, 106232, 97290, 124840,
+          96907, 107063, 103486, 165483, 105194, 100978, 105169, 111557, 97285,
+          100228, 119443
+        ],
+        "bestPossible": 93599.23400000001,
+        "predictedTotalTime": 1506469.525,
+        "consistency": 0,
+        "top90Total": 1945768,
+        "single": {
+          "bestAchievedTime": "93599.234",
+          "bestPossibleTime": "93599.234",
+          "averageTime": "107335.95652173914",
+          "alternative": [],
+          "time": "98868",
+          "stdDev": "8708.387275678951"
+        },
+        "total": {
+          "bestAchievedTime": "1945768",
+          "bestPossibleTime": "1830315",
+          "averageTime": "2085289",
+          "alternative": [],
+          "time": "1945784.863",
+          "stdDev": "586355.7525783265"
+        },
+        "top10Total": 1359635,
+        "attemptsFinished": 23,
+        "top10Single": 101074,
+        "name": "-Skydiving",
+        "comparisons": {
+          "Personal Best": 1945784.8630000001,
+          "Worst Segments": 4311320.919,
+          "Best Segments": 1830327.095,
+          "Best Split Times": 1945784.8529,
+          "Average Segments": 2038489.4859000002,
+          "Latest Run": 1945784.8529,
+          "None": null,
+          "Median Segments": 1954125.8219,
+          "Balanced PB": 1972970.2544000002
+        },
+        "predictedSingleTime": 106852.9,
+        "recentCompletionsTotal": [
+          1945768, 1574964, 1359635, 1481164, 1440293, 1480140, 1456823,
+          1494388, 1477820, 1535613, 1461702, 1577210, 1515272, 2147594,
+          1437778, 1333278, 1338857, 1500313, 1572629, 1524740
+        ],
+        "attemptsStarted": 23,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 2039075.4000000001,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [93290, 94324],
+        "bestPossible": 79649.50600000001,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "79649.506",
+          "bestPossibleTime": "79649.506",
+          "averageTime": "93807",
+          "alternative": [],
+          "time": "93291",
+          "stdDev": "517"
+        },
+        "total": {
+          "bestAchievedTime": "2039058",
+          "bestPossibleTime": "1909964",
+          "averageTime": "2179096",
+          "alternative": [],
+          "time": "2039075.4",
+          "stdDev": "373841.43584412895"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Greatest part of the game",
+        "comparisons": {
+          "Personal Best": 2039075.4000000001,
+          "Worst Segments": 4405645.680000001,
+          "Best Segments": 1909976.601,
+          "Best Split Times": 2039075.3889000001,
+          "Average Segments": 2132223.2611000002,
+          "Latest Run": 2039075.3889000001,
+          "None": null,
+          "Median Segments": 2047416.3579000002,
+          "Balanced PB": 2066626.5644
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [2039058, 1669288],
+        "attemptsStarted": 23,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 2100843.203,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [61767, 58434],
+        "bestPossible": 58434.708000000006,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "58434.708",
+          "bestPossibleTime": "58434.708",
+          "averageTime": "60100.5",
+          "alternative": [],
+          "time": "61768",
+          "stdDev": "1666.5"
+        },
+        "total": {
+          "bestAchievedTime": "2100825",
+          "bestPossibleTime": "1968398",
+          "averageTime": "2239196",
+          "alternative": [],
+          "time": "2100843.203",
+          "stdDev": "374667.9772258366"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Start Teh Knight",
+        "comparisons": {
+          "Personal Best": 2100843.203,
+          "Worst Segments": 4499396.547,
+          "Best Segments": 1968411.3090000001,
+          "Best Split Times": 2100843.1919,
+          "Average Segments": 2192562.5948,
+          "Latest Run": 2100843.1919,
+          "None": null,
+          "Median Segments": 2109184.1609,
+          "Balanced PB": 2126240.0870000003
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [2100825, 1727722],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 2137048.918,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [36205, 35830],
+        "bestPossible": 25915.768,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "25915.768",
+          "bestPossibleTime": "25915.768",
+          "averageTime": "36017.5",
+          "alternative": [],
+          "time": "36205",
+          "stdDev": "187.5"
+        },
+        "total": {
+          "bestAchievedTime": "2137030",
+          "bestPossibleTime": "1994313",
+          "averageTime": "2275213",
+          "alternative": [],
+          "time": "2137048.918",
+          "stdDev": "907978.6363067002"
+        },
+        "top10Total": null,
+        "attemptsFinished": 24,
+        "top10Single": null,
+        "name": "-Last chaos Emerald",
+        "comparisons": {
+          "Personal Best": 2137048.918,
+          "Worst Segments": 4560621.616,
+          "Best Segments": 1994327.077,
+          "Best Split Times": 2137048.9059,
+          "Average Segments": 2229885.7046000003,
+          "Latest Run": 2137048.9059,
+          "None": null,
+          "Median Segments": 2145389.8749,
+          "Balanced PB": 2160932.8310000002
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [
+          2137030, 1763552, 1393419, 1483320, 1515096, 1490717, 1528294,
+          1530271, 1578512, 1494429, 1630726, 1576497, 2183656, 1476373,
+          1372225, 1373357, 1535424, 1608566, 1554192, 1534031
+        ],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": 165180.05,
+        "top90Single": 182966,
+        "pbSplitTime": 2296855.234,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [
+          159806, 160473, 167189, 166776, 163832, 156854, 161637, 182966,
+          166367, 174250, 166033, 158728, 164854, 157523, 168884, 157778,
+          159384, 160408, 159393, 190466
+        ],
+        "bestPossible": 156854.08800000002,
+        "predictedTotalTime": 1721547.7,
+        "consistency": 0,
+        "top90Total": 2296836,
+        "single": {
+          "bestAchievedTime": "156854.088",
+          "bestPossibleTime": "156854.088",
+          "averageTime": "165132.4090909091",
+          "alternative": [],
+          "time": "159807",
+          "stdDev": "6051.9906453429485"
+        },
+        "total": {
+          "bestAchievedTime": "2296836",
+          "bestPossibleTime": "2151167",
+          "averageTime": "2440345",
+          "alternative": [],
+          "time": "2296855.234",
+          "stdDev": "723767.7343856121"
+        },
+        "top10Total": 1560608,
+        "attemptsFinished": 22,
+        "top10Single": 157778,
+        "name": "{Chaos Island} Banger Alert it's Knight",
+        "comparisons": {
+          "Personal Best": 2296855.234,
+          "Worst Segments": 4751087.74,
+          "Best Segments": 2151181.165,
+          "Best Split Times": 2296855.2209,
+          "Average Segments": 2393204.361,
+          "Latest Run": 2296855.2209,
+          "None": null,
+          "Median Segments": 2305196.1899,
+          "Balanced PB": 2321391.7842
+        },
+        "predictedSingleTime": 162826.525,
+        "recentCompletionsTotal": [
+          2296836, 1924025, 1560608, 1650096, 1678928, 1647571, 1689931,
+          1713237, 1744879, 1668679, 1796759, 1735225, 2348510, 1633896,
+          1541109, 1531135, 1694808, 1768974, 1713585, 1724497
+        ],
+        "attemptsStarted": 24,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 2348016.3940000003,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [51161, 36998],
+        "bestPossible": 29546.300000000003,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "29546.3",
+          "bestPossibleTime": "29546.3",
+          "averageTime": "44079.5",
+          "alternative": [],
+          "time": "51161",
+          "stdDev": "7081.5"
+        },
+        "total": {
+          "bestAchievedTime": "2347997",
+          "bestPossibleTime": "2180713",
+          "averageTime": "2484424",
+          "alternative": [],
+          "time": "2348016.394",
+          "stdDev": "382466.29467836773"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Tree tower 1",
+        "comparisons": {
+          "Personal Best": 2348016.3940000003,
+          "Worst Segments": 4813304.389,
+          "Best Segments": 2180727.4650000003,
+          "Best Split Times": 2348016.3809,
+          "Average Segments": 2438295.9535000003,
+          "Latest Run": 2348016.3809,
+          "None": null,
+          "Median Segments": 2356357.3499000003,
+          "Balanced PB": 2363399.4046
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [2347997, 1961023],
+        "attemptsStarted": 22,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 2388377.667,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [40361, 23266],
+        "bestPossible": 21800.563000000002,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "21800.563",
+          "bestPossibleTime": "21800.563",
+          "averageTime": "31813.5",
+          "alternative": [],
+          "time": "40361",
+          "stdDev": "8547.5"
+        },
+        "total": {
+          "bestAchievedTime": "2388358",
+          "bestPossibleTime": "2202513",
+          "averageTime": "2516237",
+          "alternative": [],
+          "time": "2388377.667",
+          "stdDev": "386860.25470769155"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Nutty tower 2",
+        "comparisons": {
+          "Personal Best": 2388377.667,
+          "Worst Segments": 4853665.6620000005,
+          "Best Segments": 2202528.028,
+          "Best Split Times": 2388377.6539000003,
+          "Average Segments": 2471331.0220000003,
+          "Latest Run": 2388377.6539000003,
+          "None": null,
+          "Median Segments": 2396718.6229000003,
+          "Balanced PB": 2392711.9986
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [2388358, 1984289],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 2433858.003,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [45480, 52615],
+        "bestPossible": 45480.336,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "45480.336",
+          "bestPossibleTime": "45480.336",
+          "averageTime": "49047.5",
+          "alternative": [],
+          "time": "45481",
+          "stdDev": "3567.5"
+        },
+        "total": {
+          "bestAchievedTime": "2433838",
+          "bestPossibleTime": "2247993",
+          "averageTime": "2565284",
+          "alternative": [],
+          "time": "2433858.003",
+          "stdDev": "385008.7501057606"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Some other thing 4",
+        "comparisons": {
+          "Personal Best": 2433858.003,
+          "Worst Segments": 4972601.284,
+          "Best Segments": 2248008.364,
+          "Best Split Times": 2433857.9899,
+          "Average Segments": 2519869.3552,
+          "Latest Run": 2433857.9899,
+          "None": null,
+          "Median Segments": 2442198.9589,
+          "Balanced PB": 2440715.8833000003
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [2433838, 2036904],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 2455593.5760000004,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [21735, 28912],
+        "bestPossible": 21735.572,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "21735.572",
+          "bestPossibleTime": "21735.572",
+          "averageTime": "25323.5",
+          "alternative": [],
+          "time": "21735",
+          "stdDev": "3588.5"
+        },
+        "total": {
+          "bestAchievedTime": "2455573",
+          "bestPossibleTime": "2269728",
+          "averageTime": "2590607",
+          "alternative": [],
+          "time": "2455593.576",
+          "stdDev": "383170.83320432936"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Wow 6th tower",
+        "comparisons": {
+          "Personal Best": 2455593.5760000004,
+          "Worst Segments": 5017076.5,
+          "Best Segments": 2269743.936,
+          "Best Split Times": 2455593.5619,
+          "Average Segments": 2544680.7791,
+          "Latest Run": 2455593.5619,
+          "None": null,
+          "Median Segments": 2463934.5309,
+          "Balanced PB": 2464989.7383000003
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [2455573, 2065816],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 2480288.0160000003,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [24694, 40968],
+        "bestPossible": 24694.439000000002,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "24694.439",
+          "bestPossibleTime": "24694.439",
+          "averageTime": "32831",
+          "alternative": [],
+          "time": "24695",
+          "stdDev": "8137"
+        },
+        "total": {
+          "bestAchievedTime": "2480267",
+          "bestPossibleTime": "2294422",
+          "averageTime": "2623438",
+          "alternative": [],
+          "time": "2480288.016",
+          "stdDev": "379097.14517323923"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Holy cow number 5",
+        "comparisons": {
+          "Personal Best": 2480288.0160000003,
+          "Worst Segments": 5080212.958000001,
+          "Best Segments": 2294438.375,
+          "Best Split Times": 2480288.0009000003,
+          "Average Segments": 2576349.7599,
+          "Latest Run": 2480288.0009000003,
+          "None": null,
+          "Median Segments": 2488628.9699,
+          "Balanced PB": 2495439.7731000003
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [2480267, 2106784],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 2517018.684,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [36730, 36252],
+        "bestPossible": 34861.618,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "34861.618",
+          "bestPossibleTime": "34861.618",
+          "averageTime": "36491",
+          "alternative": [],
+          "time": "36730",
+          "stdDev": "239"
+        },
+        "total": {
+          "bestAchievedTime": "2516997",
+          "bestPossibleTime": "2329283",
+          "averageTime": "2659929",
+          "alternative": [],
+          "time": "2517018.684",
+          "stdDev": "858727.8948516016"
+        },
+        "top10Total": null,
+        "attemptsFinished": 19,
+        "top10Single": null,
+        "name": "{Rhea Island}My word this could be a run",
+        "comparisons": {
+          "Personal Best": 2517018.684,
+          "Worst Segments": 5415363.405,
+          "Best Segments": 2329299.9930000002,
+          "Best Split Times": 2517018.6689,
+          "Average Segments": 2625270.8132,
+          "Latest Run": 2517018.6689,
+          "None": null,
+          "Median Segments": 2525359.6379,
+          "Balanced PB": 2532218.7149
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [
+          2516997, 2143036, 1613750, 1727995, 1759223, 1684363, 1747695,
+          1759212, 1782408, 1707100, 1832443, 1799198, 2384521, 1672906,
+          1578390, 1566013, 1729669, 1880112, 2059647
+        ],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 2809023.494,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [292004, 283878],
+        "bestPossible": 238632.89800000002,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "238632.898",
+          "bestPossibleTime": "238632.898",
+          "averageTime": "287941",
+          "alternative": [],
+          "time": "292005",
+          "stdDev": "4063"
+        },
+        "total": {
+          "bestAchievedTime": "2809001",
+          "bestPossibleTime": "2567915",
+          "averageTime": "2947870",
+          "alternative": [],
+          "time": "2809023.494",
+          "stdDev": "381234.6738539138"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-4-3",
+        "comparisons": {
+          "Personal Best": 2809023.494,
+          "Worst Segments": 5716227.635000001,
+          "Best Segments": 2567932.8910000003,
+          "Best Split Times": 2809023.4789,
+          "Average Segments": 2913792.9604,
+          "Latest Run": 2809023.4789,
+          "None": null,
+          "Median Segments": 2817364.4479,
+          "Balanced PB": 2818971.307
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [2809001, 2426914],
+        "attemptsStarted": 19,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 2839259.287,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [30235, 30574],
+        "bestPossible": 30179.549000000003,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "30179.549",
+          "bestPossibleTime": "30179.549",
+          "averageTime": "30404.5",
+          "alternative": [],
+          "time": "30236",
+          "stdDev": "169.5"
+        },
+        "total": {
+          "bestAchievedTime": "2839236",
+          "bestPossibleTime": "2598094",
+          "averageTime": "2978274",
+          "alternative": [],
+          "time": "2839259.287",
+          "stdDev": "381149.3298170679"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Red Emerald",
+        "comparisons": {
+          "Personal Best": 2839259.287,
+          "Worst Segments": 5752199.055000001,
+          "Best Segments": 2598112.44,
+          "Best Split Times": 2839259.2709000004,
+          "Average Segments": 2944173.9682,
+          "Latest Run": 2839259.2709000004,
+          "None": null,
+          "Median Segments": 2847600.2399,
+          "Balanced PB": 2849326.9354000003
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [2839236, 2457488],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 2876800.057,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [37540, 36764],
+        "bestPossible": 30703.25,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "30703.25",
+          "bestPossibleTime": "30703.25",
+          "averageTime": "37152",
+          "alternative": [],
+          "time": "37541",
+          "stdDev": "388"
+        },
+        "total": {
+          "bestAchievedTime": "2876776",
+          "bestPossibleTime": "2628797",
+          "averageTime": "3015426",
+          "alternative": [],
+          "time": "2876800.057",
+          "stdDev": "381343.7824168633"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Blue Emerald",
+        "comparisons": {
+          "Personal Best": 2876800.057,
+          "Worst Segments": 5797782.038000001,
+          "Best Segments": 2628815.69,
+          "Best Split Times": 2876800.0399,
+          "Average Segments": 2981382.2013000003,
+          "Latest Run": 2876800.0399,
+          "None": null,
+          "Median Segments": 2885141.0089000002,
+          "Balanced PB": 2886366.2057000003
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [2876776, 2494252],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 3112759.643,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [235959, 227119],
+        "bestPossible": 219744.34,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "219744.34",
+          "bestPossibleTime": "219744.34",
+          "averageTime": "231539",
+          "alternative": [],
+          "time": "235959",
+          "stdDev": "4420"
+        },
+        "total": {
+          "bestAchievedTime": "3112735",
+          "bestPossibleTime": "2848541",
+          "averageTime": "3246965",
+          "alternative": [],
+          "time": "3112759.643",
+          "stdDev": "383579.68255370355"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Fishing (23)",
+        "comparisons": {
+          "Personal Best": 3112759.643,
+          "Worst Segments": 6033741.624,
+          "Best Segments": 2848560.0300000003,
+          "Best Split Times": 3112759.6259000003,
+          "Average Segments": 3213553.044,
+          "Latest Run": 3112759.6259000003,
+          "None": null,
+          "Median Segments": 3121100.5949000004,
+          "Balanced PB": 3116611.9724000003
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [3112735, 2721371],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 3259136.0020000003,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [146376, 152127],
+        "bestPossible": 143402.575,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "143402.575",
+          "bestPossibleTime": "143402.575",
+          "averageTime": "149251.5",
+          "alternative": [],
+          "time": "146377",
+          "stdDev": "2875.5"
+        },
+        "total": {
+          "bestAchievedTime": "3259111",
+          "bestPossibleTime": "2991943",
+          "averageTime": "3396216",
+          "alternative": [],
+          "time": "3259136.002",
+          "stdDev": "382120.32695801463"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-HACKERMANS",
+        "comparisons": {
+          "Personal Best": 3259136.0020000003,
+          "Worst Segments": 6185868.941000001,
+          "Best Segments": 2991962.605,
+          "Best Split Times": 3259135.9849,
+          "Average Segments": 3362394.0992,
+          "Latest Run": 3259135.9849,
+          "None": null,
+          "Median Segments": 3267476.9539,
+          "Balanced PB": 3265022.2708
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [3259111, 2873498],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 3276228.83,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [17092, 14860],
+        "bestPossible": 14860.362000000001,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "14860.362",
+          "bestPossibleTime": "14860.362",
+          "averageTime": "15976",
+          "alternative": [],
+          "time": "17092",
+          "stdDev": "1116"
+        },
+        "total": {
+          "bestAchievedTime": "3276203",
+          "bestPossibleTime": "3006803",
+          "averageTime": "3412192",
+          "alternative": [],
+          "time": "3276228.83",
+          "stdDev": "382684.64019150287"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Green Emerald",
+        "comparisons": {
+          "Personal Best": 3276228.83,
+          "Worst Segments": 6205646.184,
+          "Best Segments": 3006822.967,
+          "Best Split Times": 3276228.8129000003,
+          "Average Segments": 3378530.156,
+          "Latest Run": 3276228.8129000003,
+          "None": null,
+          "Median Segments": 3284569.7819000003,
+          "Balanced PB": 3280672.1883
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [3276203, 2888358],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 3346033.007,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [69804, 68858],
+        "bestPossible": 68858.932,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "68858.932",
+          "bestPossibleTime": "68858.932",
+          "averageTime": "69331",
+          "alternative": [],
+          "time": "69805",
+          "stdDev": "473"
+        },
+        "total": {
+          "bestAchievedTime": "3346007",
+          "bestPossibleTime": "3075661",
+          "averageTime": "3481523",
+          "alternative": [],
+          "time": "3346033.007",
+          "stdDev": "382924.54642200726"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Yellow Emerald",
+        "comparisons": {
+          "Personal Best": 3346033.007,
+          "Worst Segments": 6287770.98,
+          "Best Segments": 3075681.899,
+          "Best Split Times": 3346032.9899,
+          "Average Segments": 3447929.228,
+          "Latest Run": 3346032.9899,
+          "None": null,
+          "Median Segments": 3354373.9589,
+          "Balanced PB": 3349865.4248
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [3346007, 2957216],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 3513549.219,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [167516, 169734],
+        "bestPossible": 149901.125,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "149901.125",
+          "bestPossibleTime": "149901.125",
+          "averageTime": "168625",
+          "alternative": [],
+          "time": "167516",
+          "stdDev": "1109"
+        },
+        "total": {
+          "bestAchievedTime": "3513523",
+          "bestPossibleTime": "3225562",
+          "averageTime": "3650148",
+          "alternative": [],
+          "time": "3513549.219",
+          "stdDev": "382362.7451968876"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-4-8",
+        "comparisons": {
+          "Personal Best": 3513549.219,
+          "Worst Segments": 6458037.5600000005,
+          "Best Segments": 3225583.024,
+          "Best Split Times": 3513549.2009,
+          "Average Segments": 3616395.9362000003,
+          "Latest Run": 3513549.2009,
+          "None": null,
+          "Median Segments": 3521890.1699,
+          "Balanced PB": 3518166.0139
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [3513523, 3126950],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 3544825.058,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [31275, 28944],
+        "bestPossible": 26483.505,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "26483.505",
+          "bestPossibleTime": "26483.505",
+          "averageTime": "30109.5",
+          "alternative": [],
+          "time": "31276",
+          "stdDev": "1165.5"
+        },
+        "total": {
+          "bestAchievedTime": "3544798",
+          "bestPossibleTime": "3252045",
+          "averageTime": "3680257",
+          "alternative": [],
+          "time": "3544825.058",
+          "stdDev": "382952.8015630647"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Cyan Emerald",
+        "comparisons": {
+          "Personal Best": 3544825.058,
+          "Worst Segments": 6492870.108,
+          "Best Segments": 3252066.529,
+          "Best Split Times": 3544825.0399,
+          "Average Segments": 3646672.6153,
+          "Latest Run": 3544825.0399,
+          "None": null,
+          "Median Segments": 3553166.0089000002,
+          "Balanced PB": 3547935.0158
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [3544798, 3155894],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 3660783.6640000003,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [115958, 123566],
+        "bestPossible": 107805.10100000001,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "107805.101",
+          "bestPossibleTime": "107805.101",
+          "averageTime": "119762",
+          "alternative": [],
+          "time": "115958",
+          "stdDev": "3804"
+        },
+        "total": {
+          "bestAchievedTime": "3660756",
+          "bestPossibleTime": "3359850",
+          "averageTime": "3800019",
+          "alternative": [],
+          "time": "3660783.664",
+          "stdDev": "381035.3367143263"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Pure emerald",
+        "comparisons": {
+          "Personal Best": 3660783.6640000003,
+          "Worst Segments": 6616436.622,
+          "Best Segments": 3359871.6300000004,
+          "Best Split Times": 3660783.6459000004,
+          "Average Segments": 3765891.7533,
+          "Latest Run": 3660783.6459000004,
+          "None": null,
+          "Median Segments": 3669124.6149000004,
+          "Balanced PB": 3666584.3081
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [3660756, 3279460],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 3904165.8740000003,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [243382, 234104],
+        "bestPossible": 214897.489,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "214897.489",
+          "bestPossibleTime": "214897.489",
+          "averageTime": "238743",
+          "alternative": [],
+          "time": "243382",
+          "stdDev": "4639"
+        },
+        "total": {
+          "bestAchievedTime": "3904138",
+          "bestPossibleTime": "3574747",
+          "averageTime": "4038762",
+          "alternative": [],
+          "time": "3904165.874",
+          "stdDev": "383377.4645046315"
+        },
+        "top10Total": null,
+        "attemptsFinished": 2,
+        "top10Single": null,
+        "name": "-Supreme",
+        "comparisons": {
+          "Personal Best": 3904165.8740000003,
+          "Worst Segments": 6859818.832,
+          "Best Segments": 3574769.119,
+          "Best Split Times": 3904165.8549,
+          "Average Segments": 4005297.7927,
+          "Latest Run": 3904165.8549,
+          "None": null,
+          "Median Segments": 3912506.8239,
+          "Balanced PB": 3903970.0394
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [3904138, 3513564],
+        "attemptsStarted": 2,
+        "splitTime": null
+      },
+      {
+        "average": null,
+        "top90Single": null,
+        "pbSplitTime": 3974805.518,
+        "deltaToPredicted": null,
+        "recentCompletionsSingle": [70639, 71538],
+        "bestPossible": 70580.311,
+        "predictedTotalTime": null,
+        "consistency": 0,
+        "top90Total": null,
+        "single": {
+          "bestAchievedTime": "70580.311",
+          "bestPossibleTime": "70580.311",
+          "averageTime": "71088.5",
+          "alternative": [],
+          "time": "70640",
+          "stdDev": "449.5"
+        },
+        "total": {
+          "bestAchievedTime": "3974777",
+          "bestPossibleTime": "3645327",
+          "averageTime": "4109850",
+          "alternative": [],
+          "time": "3974805.518",
+          "stdDev": "2055392.9276431415"
+        },
+        "top10Total": null,
+        "attemptsFinished": 9,
+        "top10Single": null,
+        "name": "{It's Over}The End",
+        "comparisons": {
+          "Personal Best": 3974805.518,
+          "Worst Segments": 6933527.782000001,
+          "Best Segments": 3645349.43,
+          "Best Split Times": 3974805.4989,
+          "Average Segments": 4076308.7742000003,
+          "Latest Run": 3974805.4989,
+          "None": null,
+          "Median Segments": 3983146.4679,
+          "Balanced PB": 3974805.518
+        },
+        "predictedSingleTime": null,
+        "recentCompletionsTotal": [
+          3974777, 3585102, 1684330, 1798638, 1830400, 1755394, 1818866,
+          1853546, 1780808
+        ],
+        "attemptsStarted": 2,
+        "splitTime": null
+      }
+    ],
+    "bestPossible": 3626594.6441,
+    "importance": 140,
+    "sob": 3645349.43,
+    "delta": -25707.31790000001,
+    "startedAt": "1679019557365",
+    "platform": "PC",
+    "gameTime": true,
+    "events": [
+      {
+        "game": "Sonic Frontiers",
+        "data": {
+          "achievedTime": 91051.4161,
+          "splitName": "-Twist a doohickey",
+          "targetTime": "111326"
+        },
+        "name": "Best Run Ever",
+        "description": "The current run is the best run this runner has ever achieved",
+        "time": "2023-03-17T02:20:59.831Z",
+        "type": "best_run_ever_event",
+        "category": "Any% No DLC",
+        "username": "GoobIsGabe"
+      }
+    ],
+    "previousRun": null,
+    "currentSplitIndex": 2,
+    "variables": { "Ending": "Normal Ending", "System": "PC" },
+    "currentlyStreaming": true,
+    "runPercentage": 0.0425531914893617,
+    "currentPrediction": 0,
+    "picture": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1757730-b8c2-43ce-bb94-a07f0311eec4-profile_image-150x150.png",
+    "currentTime": 91051.56910000001,
+    "emulator": false,
+    "hasReset": false,
+    "pb": 3974805.518,
+    "currentSplitName": "-Twist a doohickey",
+    "insertedAt": 1679019659831,
+    "endedAt": "1679019231729",
+    "gameData": {
+      "historyFilename": "GoobIsGabe/sonicfrontiers/anynodlc/PCSystemPCEndingNormal20Ending/history.json?version=2023-03-17T02:13:58.939Z",
+      "game": "Sonic Frontiers",
+      "personalBest": "4134615.693",
+      "run": "Any% No DLC",
+      "gameTimeData": {
+        "average": "4109850",
+        "sessions": [
+          {
+            "runIds": { "last": 251, "first": 250 },
+            "endedAt": "2023-02-28T03:51:42.000Z",
+            "startedAt": "2023-02-28T02:34:33.000Z",
+            "finishedRuns": ["4154828.674"]
+          },
+          {
+            "runIds": { "last": 261, "first": 252 },
+            "endedAt": "2023-03-02T04:08:28.000Z",
+            "startedAt": "2023-03-02T02:42:21.000Z",
+            "finishedRuns": []
+          },
+          {
+            "runIds": { "last": 263, "first": 262 },
+            "endedAt": "2023-03-05T02:46:29.000Z",
+            "startedAt": "2023-03-05T01:22:11.000Z",
+            "finishedRuns": ["4175779.002"]
+          },
+          {
+            "runIds": { "last": 266, "first": 264 },
+            "endedAt": "2023-03-07T06:05:56.000Z",
+            "startedAt": "2023-03-07T04:24:55.000Z",
+            "finishedRuns": ["4287136.16"]
+          },
+          {
+            "runIds": { "last": 271, "first": 267 },
+            "endedAt": "2023-03-08T03:53:48.000Z",
+            "startedAt": "2023-03-08T02:16:47.000Z",
+            "finishedRuns": []
+          },
+          {
+            "runIds": { "last": 274, "first": 272 },
+            "endedAt": "2023-03-10T05:01:04.000Z",
+            "startedAt": "2023-03-10T03:39:02.000Z",
+            "finishedRuns": ["4022442.906"]
+          },
+          {
+            "runIds": { "last": 293, "first": 275 },
+            "endedAt": "2023-03-12T03:59:19.000Z",
+            "startedAt": "2023-03-12T02:19:26.000Z",
+            "finishedRuns": []
+          },
+          {
+            "runIds": { "last": 299, "first": 294 },
+            "endedAt": "2023-03-13T01:45:32.000Z",
+            "startedAt": "2023-03-13T00:19:36.000Z",
+            "finishedRuns": []
+          },
+          {
+            "runIds": { "last": 304, "first": 300 },
+            "endedAt": "2023-03-15T04:54:25.000Z",
+            "startedAt": "2023-03-15T01:12:03.000Z",
+            "finishedRuns": ["4075351.397", "3974805.518"]
+          },
+          {
+            "runIds": { "last": 304, "first": 305 },
+            "endedAt": "2023-03-17T02:11:34.000Z",
+            "startedAt": "2023-03-17T02:08:29.000Z",
+            "finishedRuns": []
+          }
+        ],
+        "personalBest": "3974805.518",
+        "pbId": 303,
+        "personalBestTime": "2023-03-15T04:54:25.000Z",
+        "history": "2023-03-15T04:54:25.000Z=3974805.518#2023-03-15T02:38:18.000Z=4075351.397#2023-03-10T05:01:04.000Z=4022442.906#2023-03-07T05:52:26.000Z=4287136.16#2023-03-05T02:34:16.000Z=4175779.002#2023-02-28T03:51:42.000Z=4154828.674#2023-02-27T05:40:57.000Z=4620067.175#2023-02-21T04:15:27.000Z=4263553.388#2023-02-20T03:38:37.000Z=4612869.681#2023-02-19T07:26:26.000Z=4501175.422",
+        "stdDev": "2055392.9276431415",
+        "timeToSave": "329478",
+        "sumOfBests": "3645327"
+      },
+      "platform": "PC",
+      "originalRun": "sonicfrontiers#any%nodlc#platform:pc#gameregion:usantsc#variables:system=pc,ending=normalending",
+      "finishedAttemptCount": 44,
+      "displayRun": "Sonic Frontiers#Any% No DLC",
+      "pbId": 303,
+      "personalBestTime": "2023-03-15T04:54:25.000Z",
+      "gameregion": "USA / NTSC",
+      "variables": { "Ending": "Normal Ending", "System": "PC" },
+      "sessions": [
+        {
+          "runIds": { "last": 251, "first": 250 },
+          "endedAt": "2023-02-28T03:51:42.000Z",
+          "startedAt": "2023-02-28T02:34:33.000Z",
+          "finishedRuns": ["4323172.612"]
+        },
+        {
+          "runIds": { "last": 261, "first": 252 },
+          "endedAt": "2023-03-02T04:08:28.000Z",
+          "startedAt": "2023-03-02T02:42:21.000Z",
+          "finishedRuns": []
+        },
+        {
+          "runIds": { "last": 263, "first": 262 },
+          "endedAt": "2023-03-05T02:46:29.000Z",
+          "startedAt": "2023-03-05T01:22:11.000Z",
+          "finishedRuns": ["4324701.862"]
+        },
+        {
+          "runIds": { "last": 266, "first": 264 },
+          "endedAt": "2023-03-07T06:05:56.000Z",
+          "startedAt": "2023-03-07T04:24:55.000Z",
+          "finishedRuns": ["4447027.8379999995"]
+        },
+        {
+          "runIds": { "last": 271, "first": 267 },
+          "endedAt": "2023-03-08T03:53:48.000Z",
+          "startedAt": "2023-03-08T02:16:47.000Z",
+          "finishedRuns": []
+        },
+        {
+          "runIds": { "last": 274, "first": 272 },
+          "endedAt": "2023-03-10T05:01:04.000Z",
+          "startedAt": "2023-03-10T03:39:02.000Z",
+          "finishedRuns": ["4178835.395"]
+        },
+        {
+          "runIds": { "last": 293, "first": 275 },
+          "endedAt": "2023-03-12T03:59:19.000Z",
+          "startedAt": "2023-03-12T02:19:26.000Z",
+          "finishedRuns": []
+        },
+        {
+          "runIds": { "last": 299, "first": 294 },
+          "endedAt": "2023-03-13T01:45:32.000Z",
+          "startedAt": "2023-03-13T00:19:36.000Z",
+          "finishedRuns": []
+        },
+        {
+          "runIds": { "last": 304, "first": 300 },
+          "endedAt": "2023-03-15T04:54:25.000Z",
+          "startedAt": "2023-03-15T01:12:03.000Z",
+          "finishedRuns": ["4225119.112", "4134615.693"]
+        },
+        {
+          "runIds": { "last": 304, "first": 305 },
+          "endedAt": "2023-03-17T02:11:34.000Z",
+          "startedAt": "2023-03-17T02:08:29.000Z",
+          "finishedRuns": []
+        }
+      ],
+      "lastSplitId": 46,
+      "offsetTime": "0",
+      "attemptCount": 305,
+      "uploadTime": "2023-03-17T02:13:58.819Z",
+      "totalRunTime": "477402000",
+      "timeToSave": "341928",
+      "url": "GoobIsGabe/Sonic%20Frontiers/Any%25%20No%20DLC$platform%3Apc$gameregion%3Ausantsc$variables%3Asystem%3Dpc%2Cending%3Dnormalending",
+      "emulator": false,
+      "splitsFile": "GoobIsGabe/Sonic+Frontiers-Any%25+No+DLC.lss",
+      "hasGameTime": true,
+      "user": "GoobIsGabe",
+      "sumOfBests": "3792687"
+    },
+    "removeAt": 1679019713.85608,
+    "gameImage": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p52.jpg",
+    "category": "Any% No DLC",
+    "region": "USA / NTSC",
+    "user": "GoobIsGabe"
+  },
+  "type": "UPDATE"
+}

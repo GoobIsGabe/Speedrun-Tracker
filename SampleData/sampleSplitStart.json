@@ -1,0 +1,851 @@
+{
+  "user": "GoobIsGabe",
+  "run": {
+    "game": "Sonic Frontiers",
+    "splits": [
+      {
+        "pbSplitTime": 49730.448000000004,
+        "bestPossible": 45773.8882,
+        "name": "-1-1",
+        "comparisons": {
+          "Personal Best": 49730.448000000004,
+          "Worst Segments": 53922.609000000004,
+          "Best Segments": 45773.8882,
+          "Best Split Times": 45773.8882,
+          "Average Segments": 49048.012500000004,
+          "Latest Run": 47462.928,
+          "None": null,
+          "Median Segments": 49635.429000000004,
+          "Balanced PB": 49089.026300000005
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 116758.73400000001,
+        "bestPossible": 62744.913,
+        "name": "-Ninja",
+        "comparisons": {
+          "Personal Best": 116758.73400000001,
+          "Worst Segments": 136240.252,
+          "Best Segments": 108518.8012,
+          "Best Split Times": 108966.1858,
+          "Average Segments": 116726.6382,
+          "Latest Run": 129780.57100000001,
+          "None": null,
+          "Median Segments": 118375.5718,
+          "Balanced PB": 115379.2752
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 136243.99300000002,
+        "bestPossible": 18008.36,
+        "name": "-Twist a doohickey",
+        "comparisons": {
+          "Personal Best": 136243.99300000002,
+          "Worst Segments": 167221.511,
+          "Best Segments": 126527.1612,
+          "Best Split Times": 129611.8419,
+          "Average Segments": 136982.35080000001,
+          "Latest Run": 148516.764,
+          "None": null,
+          "Median Segments": 138413.7759,
+          "Balanced PB": 135110.0382
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": null,
+        "bestPossible": 118198.4159,
+        "name": "-Stomp",
+        "comparisons": {
+          "Personal Best": null,
+          "Worst Segments": 395772.362,
+          "Best Segments": 244725.57710000002,
+          "Best Split Times": 253011.55080000003,
+          "Average Segments": 261867.60220000002,
+          "Latest Run": 266990.859,
+          "None": null,
+          "Median Segments": 260977.39080000002,
+          "Balanced PB": 256851.6381
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 277796.737,
+        "bestPossible": 25332.47,
+        "name": "-Heck Method to HSP",
+        "comparisons": {
+          "Personal Best": 277796.737,
+          "Worst Segments": 529528.344,
+          "Best Segments": 266028.59520000004,
+          "Best Split Times": 274598.86100000003,
+          "Average Segments": 299743.5095,
+          "Latest Run": 300602.81200000003,
+          "None": null,
+          "Median Segments": 294589.34380000003,
+          "Balanced PB": 285502.6407
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 289058.597,
+        "bestPossible": 10548.752,
+        "name": "-Climb that Chad",
+        "comparisons": {
+          "Personal Best": 289058.597,
+          "Worst Segments": 585620.199,
+          "Best Segments": 276577.3472,
+          "Best Split Times": 286842.821,
+          "Average Segments": 317780.01440000004,
+          "Latest Run": 324506.04600000003,
+          "None": null,
+          "Median Segments": 309573.2027,
+          "Balanced PB": 300866.2119
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 382521.525,
+        "bestPossible": 87290.51000000001,
+        "name": "{Kronos Island}Giganto",
+        "comparisons": {
+          "Personal Best": 382521.525,
+          "Worst Segments": 706929.533,
+          "Best Segments": 363867.8572,
+          "Best Split Times": 377087.89800000004,
+          "Average Segments": 420902.08,
+          "Latest Run": 426865.547,
+          "None": null,
+          "Median Segments": 411932.7037,
+          "Balanced PB": 399768.48370000004
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 466799.367,
+        "bestPossible": 72971.099,
+        "name": "-2-2",
+        "comparisons": {
+          "Personal Best": 466799.367,
+          "Worst Segments": 1077099.7280000001,
+          "Best Segments": 436838.9562,
+          "Best Split Times": 455050.22900000005,
+          "Average Segments": 511576.87960000004,
+          "Latest Run": 528089.818,
+          "None": null,
+          "Median Segments": 495068.3052,
+          "Balanced PB": 480544.3983
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 492536.174,
+        "bestPossible": 25472.332000000002,
+        "name": "-Chaos Emerald",
+        "comparisons": {
+          "Personal Best": 492536.174,
+          "Worst Segments": 1175777.602,
+          "Best Segments": 462311.2882,
+          "Best Split Times": 482662.684,
+          "Average Segments": 542171.3982,
+          "Latest Run": 558865.177,
+          "None": null,
+          "Median Segments": 525500.0692,
+          "Balanced PB": 508156.2136
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 529548.145,
+        "bestPossible": 25278.021,
+        "name": "-Wyvern Escape Start",
+        "comparisons": {
+          "Personal Best": 529548.145,
+          "Worst Segments": 1226489.3020000001,
+          "Best Segments": 487589.3092,
+          "Best Split Times": 518058.85000000003,
+          "Average Segments": 578720.2997,
+          "Latest Run": 596493.795,
+          "None": null,
+          "Median Segments": 562538.9742,
+          "Balanced PB": 544274.192
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 618435.783,
+        "bestPossible": 87330.656,
+        "name": "-RUN!",
+        "comparisons": {
+          "Personal Best": 618435.783,
+          "Worst Segments": 1377575.3660000002,
+          "Best Segments": 574919.9652,
+          "Best Split Times": 609429.349,
+          "Average Segments": 679655.1109000001,
+          "Latest Run": 685991.4720000001,
+          "None": null,
+          "Median Segments": 655455.1266000001,
+          "Balanced PB": 634884.6629
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 642943.638,
+        "bestPossible": 11837.505000000001,
+        "name": "-Touch Grass",
+        "comparisons": {
+          "Personal Best": 642943.638,
+          "Worst Segments": 1486803.5860000001,
+          "Best Segments": 586757.4702,
+          "Best Split Times": 621527.529,
+          "Average Segments": 695515.8582,
+          "Latest Run": 699021.618,
+          "None": null,
+          "Median Segments": 669661.622,
+          "Balanced PB": 649088.6883
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 662985.8790000001,
+        "bestPossible": 17962.816000000003,
+        "name": "-Wyvern Climb",
+        "comparisons": {
+          "Personal Best": 662985.8790000001,
+          "Worst Segments": 1637336.637,
+          "Best Segments": 604720.2862,
+          "Best Split Times": 639490.3450000001,
+          "Average Segments": 753099.5422,
+          "Latest Run": 719000.106,
+          "None": null,
+          "Median Segments": 729624.9669,
+          "Balanced PB": 669330.0654000001
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 753113.566,
+        "bestPossible": 88000,
+        "name": "-Why Vern Run",
+        "comparisons": {
+          "Personal Best": 753113.566,
+          "Worst Segments": 1826594.3250000002,
+          "Best Segments": 692720.2862000001,
+          "Best Split Times": 730298.084,
+          "Average Segments": 850425.4921,
+          "Latest Run": 809958.233,
+          "None": null,
+          "Median Segments": 820432.7059000001,
+          "Balanced PB": 759907.0712
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 943280.4600000001,
+        "bestPossible": 186757.845,
+        "name": "{Ares Island} Wyvern Fight",
+        "comparisons": {
+          "Personal Best": 943280.4600000001,
+          "Worst Segments": 2747037.471,
+          "Best Segments": 879478.1312000001,
+          "Best Split Times": 920192.6390000001,
+          "Average Segments": 1044015.1911,
+          "Latest Run": 999467.1440000001,
+          "None": null,
+          "Median Segments": 1010079.8869,
+          "Balanced PB": 951050.2598
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 1092009.51,
+        "bestPossible": 126466.28600000001,
+        "name": "-3-1",
+        "comparisons": {
+          "Personal Best": 1092009.51,
+          "Worst Segments": 2994482.1410000003,
+          "Best Segments": 1005944.4172,
+          "Best Split Times": 1054819.8290000001,
+          "Average Segments": 1225412.4613,
+          "Latest Run": 1246911.814,
+          "None": null,
+          "Median Segments": 1177508.1339,
+          "Balanced PB": 1104103.3337
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 1211314.0450000002,
+        "bestPossible": 112897.519,
+        "name": "-3-2",
+        "comparisons": {
+          "Personal Best": 1211314.0450000002,
+          "Worst Segments": 3178457.165,
+          "Best Segments": 1118841.9362,
+          "Best Split Times": 1167717.348,
+          "Average Segments": 1347012.6501,
+          "Latest Run": 1362970.5010000002,
+          "None": null,
+          "Median Segments": 1293566.8209000002,
+          "Balanced PB": 1225687.9465
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 1252467.942,
+        "bestPossible": 40081.69,
+        "name": "-Red Emerald",
+        "comparisons": {
+          "Personal Best": 1252467.942,
+          "Worst Segments": 3297034.9420000003,
+          "Best Segments": 1158923.6262,
+          "Best Split Times": 1208542.9610000001,
+          "Average Segments": 1404155.5904,
+          "Latest Run": null,
+          "None": null,
+          "Median Segments": 1337036.3319,
+          "Balanced PB": 1274613.149
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 1304217.855,
+        "bestPossible": 49482.447,
+        "name": "-Yo Tails",
+        "comparisons": {
+          "Personal Best": 1304217.855,
+          "Worst Segments": 3390296.7580000004,
+          "Best Segments": 1208406.0732,
+          "Best Split Times": 1258025.408,
+          "Average Segments": 1460798.583,
+          "Latest Run": 1467651.291,
+          "None": null,
+          "Median Segments": 1388786.2439000001,
+          "Balanced PB": 1330907.1008000001
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 1431460.6970000002,
+        "bestPossible": 119443.743,
+        "name": "-Shield Escape",
+        "comparisons": {
+          "Personal Best": 1431460.6970000002,
+          "Worst Segments": 3666105.182,
+          "Best Segments": 1327849.8162,
+          "Best Split Times": 1404767.311,
+          "Average Segments": 1608696.4326000002,
+          "Latest Run": 1632603.286,
+          "None": null,
+          "Median Segments": 1535528.1469,
+          "Balanced PB": 1475734.1864
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 1492239.404,
+        "bestPossible": 56401.999,
+        "name": "-3-5",
+        "comparisons": {
+          "Personal Best": 1492239.404,
+          "Worst Segments": 3819001.6410000003,
+          "Best Segments": 1384251.8152,
+          "Best Split Times": 1461169.31,
+          "Average Segments": 1683487.5833,
+          "Latest Run": 1692317.941,
+          "None": null,
+          "Median Segments": 1595242.8019,
+          "Balanced PB": 1535385.3486000001
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 1603449.277,
+        "bestPossible": 103688.974,
+        "name": "-Hacking",
+        "comparisons": {
+          "Personal Best": 1603449.277,
+          "Worst Segments": 3952341.9140000003,
+          "Best Segments": 1487940.7892,
+          "Best Split Times": 1568357.1600000001,
+          "Average Segments": 1800094.6743,
+          "Latest Run": 1825658.2140000002,
+          "None": null,
+          "Median Segments": 1707385.5259,
+          "Balanced PB": 1645672.8298000002
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 1689139.1630000002,
+        "bestPossible": 81654.265,
+        "name": "-White Emerald",
+        "comparisons": {
+          "Personal Best": 1689139.1630000002,
+          "Worst Segments": 4118771.1810000003,
+          "Best Segments": 1569595.0542000001,
+          "Best Split Times": 1650909.861,
+          "Average Segments": 1888282.8567000001,
+          "Latest Run": 1911651.561,
+          "None": null,
+          "Median Segments": 1793075.4119000002,
+          "Balanced PB": 1732161.861
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 1775341.1870000002,
+        "bestPossible": 78913.209,
+        "name": "-Bolts",
+        "comparisons": {
+          "Personal Best": 1775341.1870000002,
+          "Worst Segments": 4280233.214000001,
+          "Best Segments": 1648508.2632000002,
+          "Best Split Times": 1763588.9540000001,
+          "Average Segments": 1979925.8326,
+          "Latest Run": 1999601.546,
+          "None": null,
+          "Median Segments": 1881025.3969,
+          "Balanced PB": 1818955.2514000002
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 1846916.1630000002,
+        "bestPossible": 71574.975,
+        "name": "-Yellow Emerald",
+        "comparisons": {
+          "Personal Best": 1846916.1630000002,
+          "Worst Segments": 4427016.886,
+          "Best Segments": 1720083.2382,
+          "Best Split Times": 1837737.8020000001,
+          "Average Segments": 2057245.2654000001,
+          "Latest Run": 2076679.4470000002,
+          "None": null,
+          "Median Segments": 1955174.2449,
+          "Balanced PB": 1897337.0453
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 1945784.8630000001,
+        "bestPossible": 93599.23400000001,
+        "name": "-Skydiving",
+        "comparisons": {
+          "Personal Best": 1945784.8630000001,
+          "Worst Segments": 4592500.684,
+          "Best Segments": 1813682.4722000002,
+          "Best Split Times": 1935401.4540000001,
+          "Average Segments": 2155257.4027,
+          "Latest Run": 2171573.6040000003,
+          "None": null,
+          "Median Segments": 2051312.0519,
+          "Balanced PB": 1995796.1095
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 2039075.4000000001,
+        "bestPossible": 79649.50600000001,
+        "name": "-Greatest part of the game",
+        "comparisons": {
+          "Personal Best": 2039075.4000000001,
+          "Worst Segments": 4686825.445,
+          "Best Segments": 1893331.9782,
+          "Best Split Times": 2018546.7580000001,
+          "Average Segments": 2240589.6887000003,
+          "Latest Run": 2255830.096,
+          "None": null,
+          "Median Segments": 2135236.0649,
+          "Balanced PB": 2079728.6739
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 2100843.203,
+        "bestPossible": 58434.708000000006,
+        "name": "-Start Teh Knight",
+        "comparisons": {
+          "Personal Best": 2100843.203,
+          "Worst Segments": 5486912.48,
+          "Best Segments": 1951766.6862,
+          "Best Split Times": 2078575.952,
+          "Average Segments": 2540714.7897,
+          "Latest Run": 3055917.131,
+          "None": null,
+          "Median Segments": 2281217.0919,
+          "Balanced PB": 2141569.3894
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 2137048.918,
+        "bestPossible": 25915.768,
+        "name": "-Last chaos Emerald",
+        "comparisons": {
+          "Personal Best": 2137048.918,
+          "Worst Segments": 5548137.549000001,
+          "Best Segments": 1977682.4542,
+          "Best Split Times": 2121325.015,
+          "Average Segments": 2577302.3985,
+          "Latest Run": 3087328.8940000003,
+          "None": null,
+          "Median Segments": 2316958.4209000003,
+          "Balanced PB": 2177134.861
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 2296855.234,
+        "bestPossible": 156854.08800000002,
+        "name": "{Chaos Island} Banger Alert it's Knight",
+        "comparisons": {
+          "Personal Best": 2296855.234,
+          "Worst Segments": 5738603.673,
+          "Best Segments": 2134536.5422,
+          "Best Split Times": 2289223.0840000003,
+          "Average Segments": 2748549.0301,
+          "Latest Run": 3272145.842,
+          "None": null,
+          "Median Segments": 2484856.4899,
+          "Balanced PB": 2340668.2355
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 2348016.3940000003,
+        "bestPossible": 29546.300000000003,
+        "name": "-Tree tower 1",
+        "comparisons": {
+          "Personal Best": 2348016.3940000003,
+          "Worst Segments": 5800820.322000001,
+          "Best Segments": 2164082.8422000003,
+          "Best Split Times": 2330142.085,
+          "Average Segments": 2787278.2271000003,
+          "Latest Run": 3305198.364,
+          "None": null,
+          "Median Segments": 2517909.0119000003,
+          "Balanced PB": 2378062.0929
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 2388377.667,
+        "bestPossible": 21800.563000000002,
+        "name": "-Nutty tower 2",
+        "comparisons": {
+          "Personal Best": 2388377.667,
+          "Worst Segments": 5841181.595000001,
+          "Best Segments": 2185883.4052,
+          "Best Split Times": 2354186.145,
+          "Average Segments": 2816943.112,
+          "Latest Run": 3331441.75,
+          "None": null,
+          "Median Segments": 2544152.3979,
+          "Balanced PB": 2404189.4469000003
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 2433858.003,
+        "bestPossible": 45480.336,
+        "name": "-Some other thing 4",
+        "comparisons": {
+          "Personal Best": 2433858.003,
+          "Worst Segments": 5960117.217,
+          "Best Segments": 2231363.7412,
+          "Best Split Times": 2433857.98,
+          "Average Segments": 2884639.0954,
+          "Latest Run": 3393891.913,
+          "None": null,
+          "Median Segments": 2606602.5609,
+          "Balanced PB": 2459104.7167
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 2455593.5760000004,
+        "bestPossible": 21735.572,
+        "name": "-Wow 6th tower",
+        "comparisons": {
+          "Personal Best": 2455593.5760000004,
+          "Worst Segments": 6008182.926,
+          "Best Segments": 2253099.3132,
+          "Best Split Times": 2455593.552,
+          "Average Segments": 2920702.2585,
+          "Latest Run": 3441957.622,
+          "None": null,
+          "Median Segments": 2646053.0949,
+          "Balanced PB": 2490037.4045
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 2480288.0160000003,
+        "bestPossible": 24694.439000000002,
+        "name": "-Holy cow number 5",
+        "comparisons": {
+          "Personal Best": 2480288.0160000003,
+          "Worst Segments": 6071319.384000001,
+          "Best Segments": 2277793.7522,
+          "Best Split Times": 2480287.991,
+          "Average Segments": 2959075.3688000003,
+          "Latest Run": 3472887.23,
+          "None": null,
+          "Median Segments": 2676982.7029,
+          "Balanced PB": 2521523.5273
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 2517018.684,
+        "bestPossible": 34300.700000000004,
+        "name": "{Rhea Island}My word this could be a run",
+        "comparisons": {
+          "Personal Best": 2517018.684,
+          "Worst Segments": 6406469.831,
+          "Best Segments": 2312094.4522,
+          "Best Split Times": 2517018.659,
+          "Average Segments": 3012451.5635,
+          "Latest Run": 3521500.114,
+          "None": null,
+          "Median Segments": 2725595.5869,
+          "Balanced PB": 2560505.4636
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 2809023.494,
+        "bestPossible": 236475.097,
+        "name": "-4-3",
+        "comparisons": {
+          "Personal Best": 2809023.494,
+          "Worst Segments": 6707334.061000001,
+          "Best Segments": 2548569.5492000002,
+          "Best Split Times": 2809023.469,
+          "Average Segments": 3269156.2927,
+          "Latest Run": 3778104.8740000003,
+          "None": null,
+          "Median Segments": 2977472.9439000003,
+          "Balanced PB": 2812653.1829000004
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 2839259.287,
+        "bestPossible": 28095.759000000002,
+        "name": "-Red Emerald",
+        "comparisons": {
+          "Personal Best": 2839259.287,
+          "Worst Segments": 6744191.166,
+          "Best Segments": 2576665.3082000003,
+          "Best Split Times": 2839259.261,
+          "Average Segments": 3301171.3749,
+          "Latest Run": 3814961.9790000003,
+          "None": null,
+          "Median Segments": 3010451.0829000003,
+          "Balanced PB": 2842950.8054
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 2876800.057,
+        "bestPossible": 30703.25,
+        "name": "-Blue Emerald",
+        "comparisons": {
+          "Personal Best": 2876800.057,
+          "Worst Segments": 6798099.506,
+          "Best Segments": 2607368.5582000003,
+          "Best Split Times": 2876800.0300000003,
+          "Average Segments": 3337550.6991000003,
+          "Latest Run": 3847553.14,
+          "None": null,
+          "Median Segments": 3043042.2439,
+          "Balanced PB": 2877640.5285
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 3112759.643,
+        "bestPossible": 216046.27000000002,
+        "name": "-Fishing (23)",
+        "comparisons": {
+          "Personal Best": 3112759.643,
+          "Worst Segments": 7038596.6450000005,
+          "Best Segments": 2823414.8282000003,
+          "Best Split Times": 3112759.616,
+          "Average Segments": 3564690.5185000002,
+          "Latest Run": 4071785.319,
+          "None": null,
+          "Median Segments": 3267274.4229,
+          "Balanced PB": 3103682.8262
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 3259136.0020000003,
+        "bestPossible": 143402.575,
+        "name": "-HACKERMANS",
+        "comparisons": {
+          "Personal Best": 3259136.0020000003,
+          "Worst Segments": 7190723.962,
+          "Best Segments": 2966817.4032,
+          "Best Split Times": 3259135.975,
+          "Average Segments": 3713170.8412,
+          "Latest Run": 4222073.147,
+          "None": null,
+          "Median Segments": 3414299.6999000004,
+          "Balanced PB": 3250637.5144
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 3276228.83,
+        "bestPossible": 13495.292000000001,
+        "name": "-Green Emerald",
+        "comparisons": {
+          "Personal Best": 3276228.83,
+          "Worst Segments": 7214679.856000001,
+          "Best Segments": 2980312.6952,
+          "Best Split Times": 3276228.8030000003,
+          "Average Segments": 3730391.3428,
+          "Latest Run": 4240500.232,
+          "None": null,
+          "Median Segments": 3431392.5279,
+          "Balanced PB": 3266951.0387000004
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 3346033.007,
+        "bestPossible": 68858.932,
+        "name": "-Yellow Emerald",
+        "comparisons": {
+          "Personal Best": 3346033.007,
+          "Worst Segments": 7343225.8780000005,
+          "Best Segments": 3049171.6272,
+          "Best Split Times": 3346032.98,
+          "Average Segments": 3830173.5216,
+          "Latest Run": 4350245.165,
+          "None": null,
+          "Median Segments": 3541137.4609000003,
+          "Balanced PB": 3350927.9736
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 3513549.219,
+        "bestPossible": 149314.611,
+        "name": "-4-8",
+        "comparisons": {
+          "Personal Best": 3513549.219,
+          "Worst Segments": 7593942.174000001,
+          "Best Segments": 3198486.2382,
+          "Best Split Times": 3513549.191,
+          "Average Segments": 4013993.6919,
+          "Latest Run": 4525381.076,
+          "None": null,
+          "Median Segments": 3716273.3719,
+          "Balanced PB": 3522528.1095000003
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 3544825.058,
+        "bestPossible": 26433.789,
+        "name": "-Cyan Emerald",
+        "comparisons": {
+          "Personal Best": 3544825.058,
+          "Worst Segments": 7641655.613000001,
+          "Best Segments": 3224920.0272000004,
+          "Best Split Times": 3544825.0300000003,
+          "Average Segments": 4050875.1552000004,
+          "Latest Run": 4573094.515000001,
+          "None": null,
+          "Median Segments": 3753769.2799,
+          "Balanced PB": 3554340.1526
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 3660783.6640000003,
+        "bestPossible": 104026.644,
+        "name": "-Pure emerald",
+        "comparisons": {
+          "Personal Best": 3660783.6640000003,
+          "Worst Segments": 7771658.081,
+          "Best Segments": 3328946.6712,
+          "Best Split Times": 3660783.6360000004,
+          "Average Segments": 4165809.5638,
+          "Latest Run": 4686001.2700000005,
+          "None": null,
+          "Median Segments": 3866676.0349000003,
+          "Balanced PB": 3667739.1642
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 3904165.8740000003,
+        "bestPossible": 214897.489,
+        "name": "-Supreme",
+        "comparisons": {
+          "Personal Best": 3904165.8740000003,
+          "Worst Segments": 8021164.357000001,
+          "Best Segments": 3543844.1602000003,
+          "Best Split Times": 3904165.845,
+          "Average Segments": 4399156.118,
+          "Latest Run": 4930290.064,
+          "None": null,
+          "Median Segments": 4110058.2439,
+          "Balanced PB": 3904132.0631000004
+        },
+        "splitTime": null
+      },
+      {
+        "pbSplitTime": 3974805.518,
+        "bestPossible": 70443.541,
+        "name": "{It's Over}The End",
+        "comparisons": {
+          "Personal Best": 3974805.518,
+          "Worst Segments": 8094873.307,
+          "Best Segments": 3614287.7012,
+          "Best Split Times": 3974805.489,
+          "Average Segments": 4469875.1225000005,
+          "Latest Run": 5000867.406,
+          "None": null,
+          "Median Segments": 4180635.5859000003,
+          "Balanced PB": 3974805.518
+        },
+        "splitTime": null
+      }
+    ],
+    "bestPossible": 3618317.1531,
+    "importance": 110,
+    "sob": 3618317.1531,
+    "delta": 0,
+    "startedAt": "1680065137072",
+    "platform": "PC",
+    "gameTime": true,
+    "events": [],
+    "currentSplitIndex": 0,
+    "variables": { "Ending": "Normal Ending", "System": "PC" },
+    "currentlyStreaming": true,
+    "runPercentage": 0,
+    "currentPrediction": 0,
+    "currentTime": null,
+    "emulator": false,
+    "hasReset": false,
+    "pb": 3974805.518,
+    "currentSplitName": "-1-1",
+    "insertedAt": 1680065139124,
+    "endedAt": "1680064976245",
+    "gameData": null,
+    "removeAt": 1680065276.4456646,
+    "gameImage": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5p52.jpg",
+    "category": "Any% No DLC",
+    "region": "USA / NTSC",
+    "user": "GoobIsGabe"
+  },
+  "type": "UPDATE"
+}
