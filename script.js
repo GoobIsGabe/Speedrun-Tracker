@@ -2,7 +2,8 @@
 // Websocket Stuff //
 /////////////////////
 // Create WebSocket connection. Change username at the end for yours Case Sensitive
-let theRun = new WebSocket('wss://fh76djw1t9.execute-api.eu-west-1.amazonaws.com/prod?username=GoobIsGabe');;
+let username = 'GoobIsGabe';
+let theRun = new WebSocket('wss://fh76djw1t9.execute-api.eu-west-1.amazonaws.com/prod?username='+username);
 //Set this to your Streamerbot Websocket Server
 let streamerBotSocket = new WebSocket("ws://127.0.0.1:8080/");
 
@@ -109,6 +110,8 @@ function connectTheRun() {
 
     theRun.onclose = function (event) {
         console.log('WebSocket connection closed with code ' + event.code + ': ' + event.reason);
+        theRun = new WebSocket('wss://fh76djw1t9.execute-api.eu-west-1.amazonaws.com/prod?username='+username);
+        connectTheRun();
     };
 
     // Set up the streamerBotSocket
