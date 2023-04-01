@@ -19,7 +19,7 @@ This is for speedrunners who want to flex a bit more of creativity when it comes
 ## Installation
 
 This is just a straight up html file with javascript, so the installation is as simple as downloading the three files (html, js, css).
-  - Once downloaded, you'll need to go into the script.js and change the link of the websockets at lines 5 and 7 to your displayname (case sensitive)
+  - Once downloaded, you'll need to go into the script.js and change your username at line 5 (case sensitive) and SB websocket on line 8 
   - For actions within Streamer.bot you will need to find any "streamerBotSocket.send" lines and correct them to the actions you want to perform
     - "id": Right click actions in Streamer.bot to copy action ID
     - "name" Name will have to be the same as well
