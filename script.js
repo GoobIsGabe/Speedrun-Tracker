@@ -20,6 +20,7 @@ function connectTheRun() {
         //////////////////////////////////
         var json = JSON.parse(event.data);
 
+
         //If just started, don't show the split
         if (!json.run.currentSplitIndex == 0) {
             //Prepare split Lineup
@@ -46,10 +47,18 @@ function connectTheRun() {
                     console.log("Delta w/ Function is " + calculateDelta(json.run.delta));
                     spanDelta.innerHTML = calculateDelta(json.run.delta);
                     //Checks if behind or ahead and sets class
-                    if (spanDelta.innerHTML.includes("-"))
-                        spanDelta.className = "ahead"
-                    else
-                        spanDelta.className = "behind"
+                    if (json.run.events.find(event => event.type === 'gold_split_event')) {
+                        if (spanDelta.innerHTML.includes("-")) {
+                          spanDelta.className = "gold ahead";
+                        } else {
+                          spanDelta.className = "gold behind";
+                        }
+                      } else if (spanDelta.innerHTML.includes("-")) {
+                        spanDelta.className = "ahead";
+                      } else {
+                        spanDelta.className = "behind";
+                      }
+                      
                     
                     //Converts to a better readable format
                     spanTime.innerHTML = msToMinsAndSeconds(json.run.currentTime);
