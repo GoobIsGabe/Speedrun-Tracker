@@ -3,7 +3,7 @@
 /////////////////////
 // Create WebSocket connection. Change username at the end for yours Case Sensitive
 let username = 'GoobIsGabe';
-let theRun = new WebSocket('wss://fh76djw1t9.execute-api.eu-west-1.amazonaws.com/prod?username='+username);
+let theRun = new WebSocket('wss://fh76djw1t9.execute-api.eu-west-1.amazonaws.com/prod?username=' + username);
 //Set this to your Streamerbot Websocket Server
 let streamerBotSocket = new WebSocket("ws://127.0.0.1:8080/");
 
@@ -49,17 +49,17 @@ function connectTheRun() {
                     //Checks if behind or ahead and sets class
                     if (json.run.events.find(event => event.type === 'gold_split_event')) {
                         if (spanDelta.innerHTML.includes("-")) {
-                          spanDelta.className = "gold ahead";
+                            spanDelta.className = "gold ahead";
                         } else {
-                          spanDelta.className = "gold behind";
+                            spanDelta.className = "gold behind";
                         }
-                      } else if (spanDelta.innerHTML.includes("-")) {
+                    } else if (spanDelta.innerHTML.includes("-")) {
                         spanDelta.className = "ahead";
-                      } else {
+                    } else {
                         spanDelta.className = "behind";
-                      }
-                      
-                    
+                    }
+
+
                     //Converts to a better readable format
                     spanTime.innerHTML = msToMinsAndSeconds(json.run.currentTime);
                 }
@@ -119,7 +119,7 @@ function connectTheRun() {
 
     theRun.onclose = function (event) {
         console.log('WebSocket connection closed with code ' + event.code + ': ' + event.reason);
-        theRun = new WebSocket('wss://fh76djw1t9.execute-api.eu-west-1.amazonaws.com/prod?username='+username);
+        theRun = new WebSocket('wss://fh76djw1t9.execute-api.eu-west-1.amazonaws.com/prod?username=' + username);
         connectTheRun();
     };
 
@@ -134,6 +134,8 @@ function connectTheRun() {
 
     streamerBotSocket.addEventListener('close', event => {
         console.log(`Disconnected from streamer bot with code ${event.code}`);
+        streamerBotSocket = new WebSocket("ws://127.0.0.1:8080/");
+        connectTheRun();
     });
 }
 
@@ -141,24 +143,24 @@ connectTheRun(); // Start initial connection
 
 function calculateDelta(millis) {
     if (millis.toString().includes('-')) {
-        var minutes = Math.floor(millis / 60000)
-        var seconds = ((millis % 60000) / 1000).toFixed(2)
-        return " " + minutes + ':' + (seconds) > 10 ? '0' : ' ' + seconds
+        var minutes = Math.floor(Math.abs(millis) / 60000);
+        var seconds = ((Math.abs(millis) % 60000) / 1000).toFixed(2);
+        return " -" + minutes + ':' + seconds;
     }
     else {
-        var minutes = Math.floor(millis / 60000)
-        var seconds = ((millis % 60000) / 1000).toFixed(2)
+        var minutes = Math.floor(millis / 60000);
+        var seconds = ((millis % 60000) / 1000).toFixed(2);
         if (millis < 60000) {
-            return " +" + (Math.abs(seconds) < 10 ? '0' : '') + seconds
+            return " +" + (Math.abs(seconds) < 10 ? '0' : '') + seconds;
         }
         else {
-            return " +" + minutes + ':' + (Math.abs(seconds) < 10 ? '0' : '') + seconds
+            return " +" + minutes + ':' + (Math.abs(seconds) < 10 ? '0' : '') + seconds;
         }
     }
 }
 
 function msToMinsAndSeconds(millis) {
-    var minutes = Math.floor(millis / 60000)
+    var minutes = Math.floor(Math.abs(millis) / 60000)
     var seconds = ((millis % 60000) / 1000).toFixed(2)
     return minutes + ':' + (Math.abs(seconds) < 10 ? '0' : '') + seconds
 }
