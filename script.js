@@ -15,12 +15,34 @@ function connectTheRun() {
 
     theRun.onmessage = function (event) {
         console.log(`[message] Data received from server: ${event.data}`);
+        
+        var json = JSON.parse(event.data);
+
+        /*
+        Commmon variables to want to use:
+        */
+        var previousSplitName = json.run.splits[json.run.currentSplitIndex - 1]?.name || "";
+        var currentSplitName = json.run.splits[json.run.currentSplitIndex]?.name || "";
+        console.log("Previous split name: " + previousSplitName + " | " + "Current split name: " + currentSplitName);
+
+        //65d205bd-f991-4427-92bc-93ccf4961deb
+        /////////////////////////
+        // Action On Split Name//
+        /////////////////////////
+        if(currentSplitName == "WF (6)")
+        streamerBotSocket.send(JSON.stringify(
+            {
+                "request": "DoAction",
+                "action": {
+                    "id": "65d205bd-f991-4427-92bc-93ccf4961deb",
+                    "name": "Elgato Example"
+                },
+                "id": "102"
+            }
+        ));
         //////////////////////////////////
         // Making Splits Show On Screen //
         //////////////////////////////////
-        var json = JSON.parse(event.data);
-
-
         //If just started, don't show the split
         if (!json.run.currentSplitIndex == 0) {
             //Prepare split Lineup
@@ -115,6 +137,7 @@ function connectTheRun() {
                 }
             ));
         }
+
     };
 
     theRun.onclose = function (event) {
